@@ -9,6 +9,11 @@ function JD = julian_date(year, month, mday)
 % OUTPUTS:
 %   JD         Julian Date
 
+if month < 3
+    year = year - 1;
+    month = month + 12;
+end
+
 A = floor(year / 100);
 B = floor(A / 4.0);
 C = floor(2.0 - A + B);

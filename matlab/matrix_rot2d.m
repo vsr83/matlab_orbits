@@ -9,6 +9,6 @@ function M = matrix_rot2(angled)
 %   M          The rotation matrix.
 %
 
-M = [cosd(angled), 0, -sind(angled); 0, 1, 0; sind(angled), 0, cos(angled)];
+M = [cosd(angled), 0, -sind(angled); 0, 1, 0; sind(angled), 0, cosd(angled)];
 
 end

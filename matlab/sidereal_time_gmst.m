@@ -9,8 +9,8 @@ function GMST = sidereal_time_gmst(JD, JT)
 %   GMST       GMST in degrees
 
 % For computation of the UT1 time.
-JDmin = Math.floor(JT) - 0.5;
-JDmax = Math.floor(JT) + 0.5;
+JDmin = floor(JT) - 0.5;
+JDmax = floor(JT) + 0.5;
 JD0 = 0;
 if JT > JDmin
     JD0 = JDmin;

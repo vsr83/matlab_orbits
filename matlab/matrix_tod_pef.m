@@ -1,4 +1,4 @@
-function R = matrix_tod_pef(JD, JT, N)
+function [R, GAST] = matrix_tod_pef(JD, JT, N)
 % MATRIX_TOD_PEF - Compute the rotation matrix between the ToD and PEF
 % frames.
 %
@@ -12,6 +12,7 @@ function R = matrix_tod_pef(JD, JT, N)
 %
 % OUTPUTS:
 %   R          The Earth Rotation Matrix
+%   GAST       Greenwich Apparent Sidereal Time (in degrees)
 %
 % References:
 % [1] E. Suirana, J. Zoronoza, M. Hernandez-Pajares - GNSS Data Processing -
