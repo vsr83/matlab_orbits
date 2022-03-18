@@ -18,7 +18,12 @@ function [R, GAST] = matrix_tod_pef(JD, JT, N)
 % [1] E. Suirana, J. Zoronoza, M. Hernandez-Pajares - GNSS Data Processing -
 % Volume I: Fundamentals and Algorithms, ESA 2013.
 
+if nargin < 3
+    N = matrix_mod_tod(JD);
+end
+
 GAST = sidereal_time_gast(JD, JT, N);
+
 R = matrix_rot3d(GAST);
 
 end

@@ -1,4 +1,4 @@
-function [r_pef, v_pef] = coord_tod_pef(r_tod, v_tod, JD, JT, N)
+function [r_pef, v_pef] = coord_tod_pef(JD, JT, r_tod, v_tod, N)
 % COORD_MOD_TOD - Convert coordinates and velocities between the MoD and 
 % ToD frames.
 %
@@ -6,10 +6,10 @@ function [r_pef, v_pef] = coord_tod_pef(r_tod, v_tod, JD, JT, N)
 % matrix.
 %
 % INPUTS:
-%   r_tod      Position in ToD frame (3 x n).
-%   v_tod      Velocity in ToD frame (3 x n).
 %   JD         The Julian Date.
 %   JT         The Julian Time.
+%   r_tod      Position in ToD frame (3 x n).
+%   v_tod      Velocity in ToD frame (3 x n).
 %   N          Nutation matrix (optional).
 %
 % OUTPUTS:
@@ -34,10 +34,10 @@ k_3 = -5.3016e-22;
 MJD = JT - 2451544.5;
 
 % Compute time-derivative of the GAST to convert velocities:
-dGASTdt = (1/86400.0) * (k_1 * MJD + 2*k_2*MJD*MJD + 3*k_3*MJD*MJD*MJD);
+dGASTdt = (1/86400.0) * (k_1 + 2*k_2*MJD + 3*k_3*MJD*MJD);
 dRdt = dGASTdt * (pi/180.0) * [-sind(GAST),  cosd(GAST), 0; ...
                                -cosd(GAST), -sind(GAST), 0; ...
                                          0,           0, 0];
 
 r_pef = R*r_tod;
-v_pef = R*v_tod + dRdt*r_tod;
+v_pef = R*v_tod + dRdt*r_pef;

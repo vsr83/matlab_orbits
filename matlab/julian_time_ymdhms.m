@@ -1,4 +1,4 @@
-function JT = julian_time_ymdhms(year, month, mday, hour, minute, second)
+function [JT, JD] = julian_time_ymdhms(year, month, mday, hour, minute, second)
 % JULIAN_TIME_YMDHMS - Compute Julian Time
 %
 % INPUTS:
@@ -10,7 +10,8 @@ function JT = julian_time_ymdhms(year, month, mday, hour, minute, second)
 %   second     Second (0-60, floating point)
 %
 % OUTPUTS:
-%   JT         Julian Date
+%   JT         Julian Time
+%   JD         Julian Date
 
 JD = julian_date_ymd(year, month, mday);
 JT = JD + hour / 24.0 + minute/(24.0 * 60.0) + second/(24.0 * 60.0 * 60.0);

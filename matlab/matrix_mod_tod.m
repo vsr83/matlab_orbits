@@ -1,4 +1,4 @@
-function N = matrix_mod_tod(JD)
+function N = matrix_mod_tod(JD, eps, deps, dpsi)
 % MATRIX_MOD_TOD - Compute the rotation matrix between the MoD and ToD
 % frames.
 %

@@ -1,4 +1,4 @@
-function [r_tod, v_tod] = coord_mod_tod(r_mod, v_mod, JD, N)
+function [r_tod, v_tod] = coord_mod_tod(JD, r_mod, v_mod, N)
 % COORD_MOD_TOD - Convert coordinates and velocities between the MoD and 
 % ToD frames.
 %
@@ -6,9 +6,9 @@ function [r_tod, v_tod] = coord_mod_tod(r_mod, v_mod, JD, N)
 % Matrix.
 %
 % INPUTS:
+%   JD         The Julian Date.
 %   r_mod      Position in MoD frame (3 x n).
 %   v_mod      Velocity in MoD frame (3 x n).
-%   JD         The Julian Date.
 %   N          Nutation matrix (optional).
 %
 % OUTPUTS:
@@ -19,8 +19,9 @@ function [r_tod, v_tod] = coord_mod_tod(r_mod, v_mod, JD, N)
 % [1] E. Suirana, J. Zoronoza, M. Hernandez-Pajares - GNSS Data Processing -
 % Volume I: Fundamentals and Algorithms, ESA 2013.
 
-if nargin < 2
+if nargin < 4
     % The Nutation Matrix
+    JD
     N = matrix_mod_tod(JD);
 end
 r_tod = N * r_mod;
