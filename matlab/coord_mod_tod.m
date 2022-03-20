@@ -21,7 +21,6 @@ function [r_tod, v_tod] = coord_mod_tod(JD, r_mod, v_mod, N)
 
 if nargin < 4
     % The Nutation Matrix
-    JD
     N = matrix_mod_tod(JD);
 end
 r_tod = N * r_mod;

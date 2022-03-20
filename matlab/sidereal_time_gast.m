@@ -15,7 +15,7 @@ function GAST = sidereal_time_gast(JD, JT, N)
 % [2] IERS Technical Note No. 36
 %
 if nargin < 3
-    N = matrix_mod_tod(JD)
+    N = matrix_mod_tod(JT)
 end
 
 GMST = sidereal_time_gmst(JD, JT);
@@ -30,6 +30,6 @@ GMST = sidereal_time_gmst(JD, JT);
 %    dpsi * cosd(eps + deps).
 
 % Equation 
-alpha_E = -atand(N(1, 2) / N(1, 1))
+alpha_E = -atand(N(1, 2) / N(1, 1));
 % Greenwich Apparent Sidereal Time (GAST) 
 GAST = mod(GMST + alpha_E, 360.0);

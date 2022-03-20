@@ -50,7 +50,7 @@ for iter = 1:max_iter
 
     r_iter = coord_wgs84_efi(lat, lon, h);
     err = norm(r_iter - r) / norm(r);
-    %disp(r_iter);
+
     if verbose
         disp(sprintf("iter %d: error %g", iter, err));
     end
