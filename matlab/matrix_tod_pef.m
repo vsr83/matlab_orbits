@@ -1,4 +1,4 @@
-function [R, GAST] = matrix_tod_pef(JD, JT, N)
+function [R, GAST] = matrix_tod_pef(JT, N)
 % MATRIX_TOD_PEF - Compute the rotation matrix between the ToD and PEF
 % frames.
 %
@@ -6,7 +6,6 @@ function [R, GAST] = matrix_tod_pef(JD, JT, N)
 % Matrix.
 %
 % INPUTS:
-%   JD         The Julian UT1 Date
 %   JT         The Julian UT1 Time
 %   N          Nutation Matrix
 %
@@ -19,11 +18,10 @@ function [R, GAST] = matrix_tod_pef(JD, JT, N)
 % Volume I: Fundamentals and Algorithms, ESA 2013.
 
 if nargin < 3
-    N = matrix_mod_tod(JD);
+    N = matrix_mod_tod(JT);
 end
 
-GAST = sidereal_time_gast(JD, JT, N);
-
+GAST = sidereal_time_gast(JT, N);
 R = matrix_rot3d(GAST);
 
 end

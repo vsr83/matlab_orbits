@@ -1,8 +1,7 @@
-function GAST = sidereal_time_gast(JD, JT, N)
+function GAST = sidereal_time_gast(JT, N)
 % SIDEREAL_TIME_GAST - Compute Greenwich Apparent Sidereal Time (GAST)
 %
 % INPUTS:
-%   JD         UT1 Julian Date
 %   JT         UT1 Julian Time
 %   N          Nutation Matrix
 %
@@ -15,10 +14,10 @@ function GAST = sidereal_time_gast(JD, JT, N)
 % [2] IERS Technical Note No. 36
 %
 if nargin < 3
-    N = matrix_mod_tod(JT)
+    N = matrix_mod_tod(JT);
 end
 
-GMST = sidereal_time_gmst(JD, JT);
+GMST = sidereal_time_gmst(JT);
 
 % Nutation parameter for the difference between hour angles of true and 
 % apparent equinox is given by the Equation of Equinoxes. It seems that [1] 

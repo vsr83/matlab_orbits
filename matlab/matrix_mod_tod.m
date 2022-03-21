@@ -1,4 +1,4 @@
-function N = matrix_mod_tod(JD, eps, deps, dpsi)
+function N = matrix_mod_tod(JT, eps, deps, dpsi)
 % MATRIX_MOD_TOD - Compute the rotation matrix between the MoD and ToD
 % frames.
 %
@@ -6,7 +6,7 @@ function N = matrix_mod_tod(JD, eps, deps, dpsi)
 % Matrix.
 %
 % INPUTS:
-%   JD         The Julian Date.
+%   JD         The Julian Time.
 %   eps        Nutation parameter eps (optional, if parameter computation
 %                                      is skipped)
 %   deps       Nutation parameter deps (optional, if parameter computation
@@ -22,7 +22,7 @@ function N = matrix_mod_tod(JD, eps, deps, dpsi)
 % Volume I: Fundamentals and Algorithms, ESA 2013.
 
 if nargin < 4 
-    [eps, deps, dpsi] = nutation_iau1980(JD);
+    [eps, deps, dpsi] = nutation_iau1980(JT);
 end
 
 % (A.24)

@@ -1,4 +1,4 @@
-function [r_tod, v_tod] = coord_pef_tod(JD, JT, r_pef, v_pef, N)
+function [r_tod, v_tod] = coord_pef_tod(JT, r_pef, v_pef, N)
 % COORD_MOD_TOD - Convert coordinates and velocities between the ToD and 
 % PEF frames.
 %
@@ -6,7 +6,6 @@ function [r_tod, v_tod] = coord_pef_tod(JD, JT, r_pef, v_pef, N)
 % matrix.
 %
 % INPUTS:
-%   JD         The Julian Date.
 %   JT         The Julian Time.
 %   r_pef      Position in PEF frame (3 x n).
 %   v_pef      Velocity in PEF frame (3 x n).
@@ -22,10 +21,10 @@ function [r_tod, v_tod] = coord_pef_tod(JD, JT, r_pef, v_pef, N)
 
 if nargin < 5
     % The Nutation Matrix
-    N = matrix_mod_tod(JD);
+    N = matrix_mod_tod(JT);
 end
 
-[R, GAST] = matrix_tod_pef(JD, JT, N);
+[R, GAST] = matrix_tod_pef(JT, N);
 
 % Alternative expression for the GMST is \sum_{i=0}^3 k_i MJD^i.
 k_1 = 360.985647366;

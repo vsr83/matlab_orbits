@@ -1,8 +1,7 @@
-function GMST = sidereal_time_gmst(JD, JT)
+function GMST = sidereal_time_gmst(JT)
 % SIDEREAL_TIME_GMST - Compute Greenwich Mean Sidereal Time (GMST)
 %
 % INPUTS:
-%   JD         UT1 Julian Date
 %   JT         UT1 Julian Time
 %
 % OUTPUTS:
@@ -25,7 +24,7 @@ epochJ2000 = 2451545.0;
 H = (JT - JD0) * 24.0;
 UT1 = H * 15.0;
 % Julian centuries of UT1 date (A.36)
-T = (JD - epochJ2000) / 36525.0;
+T = (JD0 - epochJ2000) / 36525.0;
 
 % Greenwich Mean Sidereal Time (GMST) at 0h UT1 (A.35)
 theta_G0 = 100.460618375 + 36000.77005360834 * T + 3.879333333333333e-04 * T*T - 2.583333333333333e-08 *T*T*T;
