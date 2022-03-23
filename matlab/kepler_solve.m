@@ -28,9 +28,11 @@ while (error > tolerance)
     end
 
     % Newton-Raphson iteration:
-    E = E - (E - ecc * sind(E) - M) / (1.0 - ecc * (2*pi/360.0) * cosd(E));
+    a = pi / 180.0;
+    E = E - (M - E + (ecc/a) * sind(E))/(ecc * cosd(E) - 1);
 
-    error = abs(sind(M) - sind(E - ecc * sind(E)));
+    error = abs(sind(M) - sind(E - (ecc/a) * sind(E))) + ...
+            abs(cosd(M) - cosd(E - (ecc/a) * sind(E)));
 end
 
 E = mod(E, 360.0);

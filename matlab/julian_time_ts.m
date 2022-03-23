@@ -13,11 +13,11 @@ if nargin == 1
     ts_format = '%d-%d-%d %d:%d:%f';
 end
 
-if isstring(ts)
+if iscell(ts)
     num_timestamps = length(ts);
     YMDhms = zeros(num_timestamps, 6);
     for ind_timestamp = 1:num_timestamps
-        YMDhms(ind_timestamp, :) = sscanf(ts(ind_timestamp), ts_format)';
+        YMDhms(ind_timestamp, :) = sscanf(ts{ind_timestamp}, ts_format)';
     end
     JT = julian_time_ymdhms(YMDhms(:, 1), YMDhms(:, 2), YMDhms(:, 3), YMDhms(:, 4), YMDhms(:, 5), YMDhms(:, 6));
     JD = julian_date_ymd(YMDhms(:, 1), YMDhms(:, 2), YMDhms(:, 3));

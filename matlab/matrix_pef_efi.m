@@ -1,4 +1,4 @@
-function RM = matrix_pef_to_efi(xp, yp)
+function RM = matrix_pef_efi(xp, yp)
 % MATRIX_PEF_TO_EFI - Compute the rotation matrix between the PEF and EFI
 % frames.
 %

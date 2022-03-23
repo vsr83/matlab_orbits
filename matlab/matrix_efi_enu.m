@@ -1,5 +1,5 @@
-function T = matrix_efi_to_enu(lat, lon)
-% MATRIX_EFI_TO_ENU - Compute the rotation matrix between the EFI and ENU
+function T = matrix_efi_enu(lat, lon)
+% MATRIX_EFI_ENU - Compute the rotation matrix between the EFI and ENU
 % frames.
 %
 % The rotation matrix between the EFI and ENU frames is determined

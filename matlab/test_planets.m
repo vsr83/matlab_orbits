@@ -1,33 +1,47 @@
-[JD, JT] = julian_time_ymdhms(2022, 03, 22, 00, 00, 00);
+[JT, JD] = julian_time_ymdhms(2022, 03, 23, 23, 13, 15);
 [kepler, indices, names] = kepler_planets(JT);
 
 num_planets = length(names);
 au_meters = 1.495978707e11;
+mu = 1.32712440018e20;
+lat = 60.205490;
+lon = 24.0206;
 
-for ind_planet = 3:3
-    name = names(ind_planet)
-    elem = kepler(ind_planet, :);
+N = matrix_mod_tod(JT);
+[r_ec_earth, v_ec_earth] = kepler_ecliptic(JT, ...
+                    kepler(indices.row_earth, indices.col_a) * au_meters, ... 
+                    kepler(indices.row_earth, indices.col_e), ...
+                    kepler(indices.row_earth, indices.col_i), ...
+                    kepler(indices.row_earth, indices.col_L), ...
+                    kepler(indices.row_earth, indices.col_lperi), ...
+                    kepler(indices.row_earth, indices.col_Omega));
+r_ec_sun = [0;0;0];
+v_ec_sun = [0;0;0];
 
-    % Semi-major axis
-    a = elem(indices.col_a) * au_meters
-    % Eccentricity
-    ecc = elem(indices.col_e)
-    % Inclination
-    incl = elem(indices.col_i)
-    % Mean longitude
-    L = elem(indices.col_L)
-    % Longitude of perihelion
-    Lperi = elem(indices.col_lperi)
-    % Longitude of the ascending node
-    Omega = elem(indices.col_Omega)
+[r_eq_sun, v_eq_sun] = coord_ecl_eq(JT, -r_ec_earth, -v_ec_earth);
+[r_mod, v_mod] = coord_j2000_mod(JT, r_eq_sun, v_eq_sun)
+[r_tod, v_tod] = coord_mod_tod(JT, r_mod, v_mod, N)
+[r_pef, v_pef] = coord_tod_pef(JT, r_tod, v_tod, N)
+[r_efi, v_efi] = coord_pef_efi(r_pef, v_pef, 0.0, 0.0)
+[lat, lon, h] = coord_efi_wgs84(r_efi)
+[r_enu, v_enu] = coord_efi_enu(r_efi, v_efi, lat, lon, 0)
+[az, el] = coord_enu_azel(r_enu, v_enu)
 
-    b = a * sqrt(1 - ecc * ecc)
-    omega = Lperi - Omega;
-    M = L - Lperi;
-    mu = 1.32712440018e20;
+% a: 1.00000009888798, 
+% e: 0.016701765975159436, 
+% i: -0.00004970292602429137, 
+% Omega: -0.21617530588158512, 
+% lP: 1.79805851019971, 
+% mL: 141.38876142392894 
 
-    E = kepler_solve(M, ecc, 1e-8, 10);
-    [r_per, v_per] = kepler_perifocal(a, b, E, mu);
-    [r_ecl, v_ecl] = coord_perifocal_inertial(r_per, v_per, Omega, incl, omega);
-    [r_eq, v_eq] = coord_ecl_eq(JT, r_ecl, v_ecl);
-end
+%for ind_planet = 1:num_planets
+%    name = names{ind_planet};
+%    [r_ecl, v_ecl] = kepler_ecliptic(JT, ...
+%                        kepler(ind_planet, indices.col_a) * au_meters, ... 
+%                        kepler(ind_planet, indices.col_e), ...
+%                        kepler(ind_planet, indices.col_i), ...
+%                        kepler(ind_planet, indices.col_L), ...
+%                        kepler(ind_planet, indices.col_lperi), ...
+%                        kepler(ind_planet, indices.col_Omega));
+%    [r_eq, v_eq] = coord_ecl_eq(JT, r_ecl, v_ecl);
+%end
