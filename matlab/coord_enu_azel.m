@@ -19,8 +19,8 @@ function [az, el, dazdt, deldt] = coord_enu_azel(r_enu, v_enu)
 % Compute norm for every column:
 norm_r_enu = sqrt(r_enu(1, :).^2 + r_enu(2, :).^2 + r_enu(3, :).^2);
 norm_r_enu = [norm_r_enu; norm_r_enu; norm_r_enu];
-ru_enu = r_enu ./ norm_r_enu;
 
+ru_enu = r_enu ./ norm_r_enu;
 az = atan2d(ru_enu(1, :), ru_enu(2, :));
 el = asind(ru_enu(3, :));
 
