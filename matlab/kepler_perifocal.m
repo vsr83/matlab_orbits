@@ -27,5 +27,11 @@ dim = length(ecc);
 % Expression of the position in the perifocal frame (2.51):
 r_per = [a .* (cosd(E) - ecc); b .* sind(E); zeros(1, dim)];
 % Velocity vector is just the time-derivative of the above:
-mult = (2*pi/360.0) * n ./ (1 - ecc * (2*pi/360.0) .* cosd(E));
-v_per = [-a .* mult .* sind(E); b .* mult .* cosd(E); zeros(1, dim)];
+%mult = (2*pi/360.0) * n ./ (1 - ecc * (2*pi/360.0) .* cosd(E));
+%v_per = [-a .* mult .* sind(E); b .* mult .* cosd(E); zeros(1, dim)];
+
+
+dEdt = n ./ (1 - ecc .* cosd(E));
+v_per = [-a .* dEdt .* sind(E); ...
+          b .* dEdt .* cosd(E); ...
+          zeros(1, dim)] * (pi/180);

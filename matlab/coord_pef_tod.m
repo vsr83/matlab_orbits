@@ -41,4 +41,4 @@ dRdt = dGASTdt * (pi/180.0) * [-sind(GAST),  cosd(GAST), 0; ...
                                          0,           0, 0];
 
 r_tod = R'*r_pef;
-v_tod = R'*(v_pef - dRdt*r_pef);
+v_tod = R'*(v_pef - dRdt*r_tod);

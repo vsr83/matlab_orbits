@@ -39,4 +39,4 @@ dRdt = dGASTdt * (pi/180.0) * [-sind(GAST),  cosd(GAST), 0; ...
                                          0,           0, 0];
 
 r_pef = R*r_tod;
-v_pef = R*v_tod + dRdt*r_pef;
+v_pef = R*v_tod + dRdt*r_tod;
