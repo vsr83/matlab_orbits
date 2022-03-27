@@ -1,2 +1,2 @@
-# sat_coordinates
-Implementation of transformations between standard reference frames in satellite position computations
+# matlab_orbits
+Implementation of transformations between standard reference frames involved in astronomy and satellite orbit computations.
