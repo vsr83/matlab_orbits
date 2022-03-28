@@ -1,14 +1,19 @@
-function test_sun_altitude(lat, lon)
-% TEST_SUN_ALTITUDE - Create contour plot of the Sun altitude.
+function test_planet_contours(lat, lon, RA, decl, name)
+% TEST_PLANET_CONTOURS - Create contour plot of a planet altitude.
 %
 % INPUTS:
 %   lat         Observer latitude (deg)
 %   lon         Observer longitude (deg)
-%
+%   RA          Right-ascension (deg)
+%   decl        Declination (deg)
+%   name        Name of the star.
 
-if nargin < 2
-    lat = 60.205490; 
-    lon = 24.0206;
+if nargin < 5
+    lat = 60; 
+    lon = 24;
+    RA = 279.23473479;
+    decl = 38.78368896;
+    name = 'Vega'
 end
 
 au_meters = 1.495978707e11;
@@ -29,33 +34,21 @@ for day = 1:length(DAY)
         num_planets = length(names);
         
         N = matrix_mod_tod(JT);
-        [r_ec_earth, v_ec_earth] = kepler_ecliptic(JT, ...
-                            kepler(indices.row_earth, indices.col_a) * au_meters, ... 
-                            kepler(indices.row_earth, indices.col_e), ...
-                            kepler(indices.row_earth, indices.col_i), ...
-                            kepler(indices.row_earth, indices.col_L), ...
-                            kepler(indices.row_earth, indices.col_lperi), ...
-                            kepler(indices.row_earth, indices.col_Omega));
-        r_ec_sun = [0;0;0];
-        v_ec_sun = [0;0;0];
+        r = 1e25;
+        r_j2000 = r * [cosd(decl) * cosd(RA); ...
+                       cosd(decl) * sind(RA); ...
+                       sind(decl)];
+        v_j2000 = 0*r_j2000;
         
-        [r_eq_sun, v_eq_sun] = coord_ecl_eq(JT, -r_ec_earth, -v_ec_earth);
-        [r_mod, v_mod] = coord_j2000_mod(JT, r_eq_sun, v_eq_sun);
-        [r_tod, v_tod] = coord_mod_tod(JT, r_mod, v_mod, N);
+        [r_mod, v_mod] = coord_j2000_mod(JT, r_j2000, v_j2000);    
+        [r_tod, v_tod] = coord_mod_tod(JT, r_mod, v_mod, N);    
         [r_pef, v_pef] = coord_tod_pef(JT, r_tod, v_tod, N);
         [r_efi, v_efi] = coord_pef_efi(r_pef, v_pef, 0.0, 0.0);
-        [slat, slon, sh] = coord_efi_wgs84(r_efi);
         [r_enu, v_enu] = coord_efi_enu(r_efi, v_efi, lat, lon, 0);
-        [az_sun, el_sun] = coord_enu_azel(r_enu, v_enu);
+        [az, el] = coord_enu_azel(r_enu, v_enu);
 
-        if el_sun < 0
-            %%el_sun = 0;
-        end
-        if az_sun < 0
-            %az_sun = az_sun + 360;
-        end
-        AZ(day, second) = az_sun;
-        EL(day, second) = el_sun;
+        AZ(day, second) = az;
+        EL(day, second) = el;
         
     end
 end
@@ -70,10 +63,9 @@ set(gca, 'XTick', 0:24);
 set(gca, 'YTick', cumsum([1, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]));
 yticklabels({'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'});
 grid on 
-title(sprintf('Altitude of the Sun at lat=%0.2f lon=%0.2f', lat, lon))
+title(sprintf('Altitude of %s at lat=%0.2f lon=%0.2f', name, lat, lon))
 xlabel('UT1 Time (h)')
 ylabel('Day of the Year');
-colorbar
 
 figure(2)
 clf;
@@ -83,7 +75,6 @@ set(gca, 'XTick', 0:24);
 set(gca, 'YTick', cumsum([1, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]));
 yticklabels({'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'});
 grid on 
-title(sprintf('Azimuth of the Sun at lat=%0.2f lon=%0.2f', lat, lon))
+title(sprintf('Azimuth of %s at lat=%0.2f lon=%0.2f', name, lat, lon))
 xlabel('UT1 Time (h)')
 ylabel('Day of the Year')
-colorbar

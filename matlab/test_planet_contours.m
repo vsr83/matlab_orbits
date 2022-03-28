@@ -88,8 +88,8 @@ set(gca, 'XTick', 0:24);
 set(gca, 'YTick', cumsum([1, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]));
 yticklabels({'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'});
 grid on 
-title(sprintf('Altitude of the %s at lat=%0.2f lon=%0.2f', name, lat, lon))
-xlabel('UTC1 Time (h)')
+title(sprintf('Altitude of %s at lat=%0.2f lon=%0.2f', name, lat, lon))
+xlabel('UT1 Time (h)')
 ylabel('Day of the Year');
 
 figure(2)
@@ -100,6 +100,6 @@ set(gca, 'XTick', 0:24);
 set(gca, 'YTick', cumsum([1, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]));
 yticklabels({'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'});
 grid on 
-title(sprintf('Azimuth of the %s at lat=%0.2f lon=%0.2f', name, lat, lon))
-xlabel('UTC1 Time (h)')
+title(sprintf('Azimuth of %s at lat=%0.2f lon=%0.2f', name, lat, lon))
+xlabel('UT1 Time (h)')
 ylabel('Day of the Year')
