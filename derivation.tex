@@ -171,20 +171,19 @@ measure the apparent solar time. The relationship between the two is called the
 Apparent solar time contains contributions from both the rotation of the Earth and the
 movement of the Earth around Sun. The component related to the rotation is called 
 \emph{sidereal time}. \emph{Sidereal day} is approximately $86164.0905\:$s while mean solar
-day is approximately $86400.002\:$s.
+day is approximately $86400.002\:$s. 
 
 There are four varieties of sidereal time (see Figure \ref{fig:sidereal}): 
 \begin {itemize}
-  \item \emph{Greenwich Apparent Sidereal Time} (GAST) is the angle from the meridian 
+  \item \emph{Greenwich Apparent Sidereal Time} (GAST) is the clockwise angle from the meridian 
   of the true vernal equinox to the Greenwich zero meridian.
-  \item \emph{Greenwich Mean Sidereal Time} (GMST) is the angle from the meridian 
+  \item \emph{Greenwich Mean Sidereal Time} (GMST) is the clockwise angle from the meridian 
   of the mean vernal equinox to the Greenwich zero meridian.
-  \item \emph{Local Apparent Sidereal Time} (LAST) is the angle from the meridian of 
+  \item \emph{Local Apparent Sidereal Time} (LAST) is the clockwise angle from the meridian of 
   the true vernal equinox to the local meridian.
-  \item \emph{Local Mean Sidereal Time} (LMST) is the angle from the meridian of the 
+  \item \emph{Local Mean Sidereal Time} (LMST) is the clockwise angle from the meridian of the 
   mean vernal equinox to the local meridian. 
 \end {itemize}
-
 \begin {figure}
   \begin {center}
     \psfrag{Equator}[][][2]{Equatorial Plane}
@@ -201,13 +200,13 @@ There are four varieties of sidereal time (see Figure \ref{fig:sidereal}):
      to meridians. The angle between true and mean vernal equinox is exaggerated.}
   \end {center}
 \end {figure} 
-The mean and apparent varieties are related by the \emph{equation of the equinoxes}
+The mean and apparent varieties are related by the \emph{equation of the equinoxes}:
 \begin {eqnarray}
   \label{eq:equinoxes}
   \textrm{GMST} - \textrm{GAST} = \textrm{LMST} - \textrm{LAST} = \alpha_E,
 \end {eqnarray}
-where $\alpha_E$ is a nutational parameter (see TODO). Greenwich and local varieties
-are related by 
+where $\alpha_E$ is a nutational parameter (\ref{eq:nutpar}). Greenwich and local 
+varieties are related by 
 \begin {eqnarray}
   \textrm{LMST} - \textrm{GMST} = \textrm{LAST} - \textrm{GAST} = \lambda
 \end {eqnarray}
@@ -223,7 +222,8 @@ with additional adjustments for polar motion. It is defined via the relationship
 \label{eq:gmst}
 \textrm{GMST} &=& 1.002\,737\,909\,350\,795\cdot\textrm{UT1} + \textrm{GMST}_0,
 \end {eqnarray}
-where Greenwich Mean Sidereal Time at $0^h$ UT1:
+where UT1$\in[0.0\:\textrm{h}, 24.0\:\textrm{h})$ and Greenwich Mean Sidereal Time at 
+$0^h$ UT1:
 \begin {eqnarray}
   \label{eq:gmst_0}
   \textrm{GMST}_0 := 6^h41^m50^s.548\,51 + 8\,640\,184^s.812\,866\:T_u + 
@@ -235,6 +235,16 @@ and
 \end {eqnarray}
 The Julian Date in the above is w.r.t. UT1 and points to the UT1 midnight of the day. 
 Thus, it has the fractional part $.5$.
+The linear term in $(\ref{eq:gmst_0})$ corresponds to the orbit of the Earth around the 
+Sun and corresponds to the fractional part in $(\ref{eq:gmst})$:
+\begin {eqnarray}
+  8\,640\,184^s.812\,866 \:\frac{\Delta JD}{36\,525} 
+  = 0^h.002\,737\,909\,350\,795\cdot 24\:\Delta JD.
+\end {eqnarray}
+
+%\lstset{basicstyle=\footnotesize\ttfamily, breaklines=true}
+%\lstinputlisting[language=Matlab] {matlab/sidereal_time_gmst.m}
+
 
 \subsubsection{Atomic Time and Coordinated Universal Time}
 \emph{International Atomic Time} (TAI) is based on notional passage of proper time on 
@@ -261,7 +271,7 @@ determining and predicting Earth Orientation Parameters (EOPs), which describes
 the time-varying orientation of the Earth. The EOPs are determined from radio 
 telescope measurements of objects billions of light years away. The EOPs are 
 part of the bulletins published by the International Earth Rotation and Reference
-Systems Service (IERS). IERS Bulletin A includes predictions for 
+Systems Service (IERS). IERS Bulletin A includes predictions for: 
 \begin {itemize}
   \item TAI - UTC difference,
   \item UT1 - UTC (DUT1) difference,
@@ -270,7 +280,7 @@ Systems Service (IERS). IERS Bulletin A includes predictions for
 as well as measured errors for past predictions.
 
 
-
+\newpage
 \section{Reference Systems and Frames}
 A conventional \emph{coordinate or reference system} is a set of prescriptions that defines 
 a triad of orthogonal axes at any time whereas conventional \emph{frame} is the practical 
@@ -610,6 +620,7 @@ $(\ref{eq:equinoxes})$
 \end {eqnarray}
 where
 \begin {eqnarray}
+  \label{eq:nutpar}
   \alpha_E &=& \tan^{-1}\left(
     \dfrac{N_{12}}{N_{11}}
   \right).
@@ -790,7 +801,19 @@ The longitude can be computed from the cartesian EFI coordinates with
 \begin {eqnarray}
   \lambda &=& \textrm{atan2}(y, x).
 \end {eqnarray}
-The latitude and height are obtained with the following iteration \cite{gnss}:
+For very distant objects such as stars, the angle between geocentric and geodetic latitude 
+is small. When $h\gg a$ holds, we have $h \gg N$ and 
+\begin {eqnarray}
+  x &=& r\cos\varphi\cos\lambda \\
+  y &=& r\cos\varphi\sin\lambda \\
+  z &=& r\sin\varphi
+\end {eqnarray}
+where $r=h+a$. This allows solution 
+\begin {eqnarray}
+  \varphi = \arcsin\left(\frac{z}{h + a}\right)
+\end {eqnarray}
+For nearby objects, the latitude and height are obtained with the 
+following iteration \cite{gnss}:
 The initial value is given by: 
 \begin {eqnarray}
   \varphi_{(0)} &=& \left(
@@ -855,12 +878,13 @@ and
 \end {eqnarray}
 \subsubsection{Azimuth and Elevation}
 Azimuth and elevation are computed clockwise from the North direction.
-That is, for $\vc r_{ENU} = (r_E, r_N, r_U)$.
+That is, for $\vc r_{ENU} = (r_E, r_N, r_U)$, the azimuth and elevation can be computed
+with: 
 \begin {eqnarray}
   A &=& \textrm{atan2d}(r_E, r_N), \\ 
-  E &=& \textrm{asind}(r_U / |\vc r_{ENU}|).
+  E &=& \textrm{asind}(r_U / |\vc r_{ENU}|)
 \end {eqnarray}
-
+respectively. 
 %\subsubsubsection{Conversion Between EFI and Topocentric-Horizontal Frame}
 
 \subsection{Keplerian Elements}
@@ -1002,6 +1026,8 @@ Thereafter,
      0
   \end {bmatrix}.
 \end {eqnarray}
+
+\subsubsection{Computation of OSV from Elements}
 The PQF coordinates are related to the frame of the orbital elements by 
 rotations:
 \begin {eqnarray}
@@ -1015,7 +1041,7 @@ and argument of periapsis, respectively. In $(\ref{eq:kepler_vel})$, it is
 assumed that the change in the orbital elements is slow enough not to affect 
 velocity calculations.
 
-\subsubsection{Computation of OSV from Elements}
+\subsubsection{Solution of the Kepler Equation}
 Suppose orbital elements $(a, e, i, \Omega, \omega, M)$ are known at 
 specific time. The eccentric anomaly is solved from the \emph{Kepler Equation}:
 \begin {eqnarray}
@@ -1038,7 +1064,10 @@ $(\ref{eq:kepler_pos})$.
 
 \subsubsection{Computation of Osculating Elements}
 Since every OSV corresponds to a unique Keplerian orbit, osculating elements 
-can be solved from the OSV. 
+can be solved from the OSV. The following discussion desribes how osculating
+elements can be computed in (approximately) inertial coordinate system, where 
+$\vu z$ is parallel to the specific angular momentum associated to the orbital 
+plane.
 
 For elliptic orbits, the semi-major axis can be written using the 
 \emph{specific orbital energy} $E=v^2/2 - \mu/r$:
