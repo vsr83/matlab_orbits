@@ -22,6 +22,7 @@ EL = 0*DD;
 AZ = 0*DD;
 
 for day = 1:length(DAY)
+day
     for second = 1:length(SEC)
         [JT, JD] = julian_time_ymdhms(2022, 01, DAY(day), 00, 00, SEC(second));
         [kepler, indices, names] = kepler_planets(JT);
