@@ -89,38 +89,49 @@ JTs = JTs - 0.09982/86400;
 %RA = 279.23416667;
 %decl = 38.7808055;
 % Astropy:
-RA = 279.23473479;
-decl = 38.78368896;
-
-r = 1e25;
-r_j2000 = r * [cosd(decl) * cosd(RA); ...
-               cosd(decl) * sind(RA); ...
-               sind(decl)];
-v_j2000 = 0 * r_j2000;
+RA0 = 279.23473479;
+decl0 = 38.78368896;
 
 lat = 60.205490;
 lon = 24.0206;
 
 
-vega_computed = [];
-for ind_JT = 1:length(JTs)
+JT = JTs(1);
+[kepler, indices, names] = kepler_planets(JT);
 
+num_planets = length(names);
+au_meters = 1.495978707e11;
+mu = 1.32712440018e20;
+lat = 60.205490;
+lon = 24.0206;
+
+vega_computed = [];
+
+for ind_JT = 1:length(JTs)
     JT = JTs(ind_JT);
     JD = JDs(ind_JT);
-
     N = matrix_mod_tod(JT);
-    [r_mod, v_mod] = coord_j2000_mod(JT, r_j2000, v_j2000);    
-    % MoD Injection
-    %r_mod = [0.12757323, -0.76886036, 0.62656111]' * 1e20;
-    [r_tod, v_tod] = coord_mod_tod(JT, r_mod, v_mod, N);
-    % ToD Inection
-    %r_tod = [cosd(38.79686077) * cosd(279.41739755); ...
-    %         cosd(38.79686077) * sind(279.41739755); ...
-    %         sind(38.79686077)] * 1e20;
 
+    % Compute speed in J2000 due to rotation of the Earth:
+    r_obs_efi = coord_wgs84_efi(lat, lon, 0);
+    [r_obs_pef, v_obs_pef] = coord_efi_pef(r_obs_efi, 0*r_obs_efi, 0, 0);
+    [r_obs_tod, v_obs_tod] = coord_pef_tod(JT, r_obs_pef, v_obs_pef);
+    [r_obs_mod, v_obs_mod] = coord_tod_mod(JT, r_obs_tod, v_obs_tod, N);
+    [r_obs_j2000, v_obs_j2000] = coord_mod_j2000(JT, r_obs_mod, v_obs_mod);
+    v_obs_j2000
+
+
+    [RA, decl] = aberration_stellar(JT, RA0, decl0, v_obs_j2000)
+    r = 1e25;
+    r_j2000 = r * [cosd(decl) * cosd(RA); ...
+                cosd(decl) * sind(RA); ...
+                sind(decl)];
+    v_j2000 = 0 * r_j2000;
+    
+    [r_mod, v_mod] = coord_j2000_mod(JT, r_j2000, v_j2000);    
+    [r_tod, v_tod] = coord_mod_tod(JT, r_mod, v_mod, N);
     [r_pef, v_pef] = coord_tod_pef(JT, r_tod, v_tod, N);
-    [r_efi, v_efi] = coord_pef_efi(r_pef, v_pef, 0.0, 0.0);
-    %[lat, lon, h] = coord_efi_wgs84(r_efi)
+    [r_efi, v_efi] = coord_pef_efi(r_pef, v_pef, 0.0335/3600, 0.4062/3600);
     [r_enu, v_enu] = coord_efi_enu(r_efi, v_efi, lat, lon, 0);
     [az, el] = coord_enu_azel(r_enu, v_enu);
 
@@ -152,19 +163,19 @@ xlabel 'Hour (UTC)'
 ylabel 'Altitude (degrees)'
 
 subplot(2, 2, 3);
-plot(0:47, (vega_computed(:, 1) - vega(:, 1)), 'bo-', 'LineWidth', 2);
+plot(0:47, (vega_computed(:, 1) - vega(:, 1))*3600, 'bo-', 'LineWidth', 2);
 hold on
 grid on
 xlim([0, 47]);
 title 'Absolute error in the azimuth of Vega'
 xlabel 'Hour (UTC)'
-ylabel 'Absolute Error (degrees)'
+ylabel 'Absolute Error (arcseconds)'
 
 subplot(2, 2, 4);
-plot(0:47, (vega_computed(:, 2) - vega(:, 2)), 'bo-', 'LineWidth', 2);
+plot(0:47, (vega_computed(:, 2) - vega(:, 2))*3600, 'bo-', 'LineWidth', 2);
 hold on
 grid on 
 xlim([0, 47]);
 title 'Absolute error in the elevation of Vega'
 xlabel 'Hour (UTC)'
-ylabel 'Absolute Error (degrees)'
+ylabel 'Absolute Error (arcseconds)'
