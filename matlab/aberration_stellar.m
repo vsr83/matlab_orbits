@@ -5,6 +5,8 @@ function [RA, decl] = aberration_stellar(JT, RA, decl, dv_j2000)
 %   JT         The Julian Time.
 %   RA         Right-ascension (in degrees).
 %   decl       Declination (in degrees).
+%   dv_j2000   J2000 velocity to be added to the velocity of the center of the Earth
+%              for example due to rotation and movement of the observer.
 %
 % OUTPUTS:
 %   RA         Corrected right-ascension (in de.* sin(A)grees).
