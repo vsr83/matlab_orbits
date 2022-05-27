@@ -1,5 +1,5 @@
 function [RA, decl] = aberration_stellar(JT, RA, decl, dv_j2000)
-% MATRIX_MOD_TOD - Compute stellar aberration with the Ron-Vondrak expression.
+% ABERRATION_STELLAR - Compute stellar aberration with the Ron-Vondrak expression.
 %
 % INPUTS:
 %   JT         The Julian Time.

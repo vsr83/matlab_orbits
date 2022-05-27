@@ -1,6 +1,5 @@
 function [RA, decl, dist] = position_moon(JT)
-% POSITION_MOON - Compute Keplerian elements of planets in the solar
-% system.
+% POSITION_MOON - Compute position of the Moon.
 %
 % Compute the position of the Moon.
 %

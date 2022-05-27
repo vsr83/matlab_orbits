@@ -117,45 +117,53 @@ mu = 1.32712440018e20;
 lat = 60.205490;
 lon = 24.0206;
 
-lat = 60.198376;
+lat = 60.1984210;
 lon = 24.7503;
 alt = 51.788;
 
 JTs = julian_time_ymdhms(2022, 4, 25, 0, 0, 0);
 JTs = JTs:(1/24):(JTs + 1);
+JTs = JTs - 0.08994 / 86400;
 
 num_times = length(JTs);
 
 AZ = [];
 EL = [];
 AD = [];
+ELAT = [];
+ELON = [];
 
 for ind_time = 1:num_times
     JT = JTs(ind_time);
-    [kepler, indices, names] = kepler_planets(JT);
-
-
 
     N = matrix_mod_tod(JT);
 
-    [r_ec_earth, v_ec_earth] = kepler_ecliptic(JT, ...
-                        kepler(indices.row_earth, indices.col_a) * au_meters, ... 
-                        kepler(indices.row_earth, indices.col_e), ...
-                        kepler(indices.row_earth, indices.col_i), ...
-                        kepler(indices.row_earth, indices.col_L), ...
-                        kepler(indices.row_earth, indices.col_lperi), ...
-                        kepler(indices.row_earth, indices.col_Omega));
+    r_ec_earth = vsop87_earth(JT);
     r_ec_sun = [0;0;0];
     v_ec_sun = [0;0;0];
 
+    % Compute speed in J2000 due to rotation of the Earth:
+    r_obs_efi = coord_wgs84_efi(lat, lon, alt);
+    [r_obs_pef, v_obs_pef] = coord_efi_pef(r_obs_efi, 0*r_obs_efi, 0, 0);
+    [r_obs_tod, v_obs_tod] = coord_pef_tod(JT, r_obs_pef, v_obs_pef);
+    [r_obs_mod, v_obs_mod] = coord_tod_mod(JT, r_obs_tod, v_obs_tod, N);
+    [r_obs_j2000, v_obs_j2000] = coord_mod_j2000(JT, r_obs_mod, v_obs_mod);
+
+    v_ec_earth = 0 * r_ec_earth;
     [r_eq_sun, v_eq_sun] = coord_ecl_eq(JT, -r_ec_earth, -v_ec_earth);
+
+    r_eq_sun = aberration_stellar_cart(JT, r_eq_sun, v_obs_j2000);
+    [r_ecl_sun2, v_ecl_sun2] = coord_eq_ecl(JT, r_eq_sun, v_eq_sun);
+    ELON = [ELON; atan2d(r_ecl_sun2(2), r_ecl_sun2(1))];
+    ELAT = [ELAT; asind(r_ecl_sun2(3) / norm(r_ecl_sun2))];
+
     [r_mod, v_mod] = coord_j2000_mod(JT, r_eq_sun, v_eq_sun);
-    [r_tod, v_tod] = coord_mod_tod(JT, r_mod, v_mod, N)
-    [r_pef, v_pef] = coord_tod_pef(JT, r_tod, v_tod, N)
-    [r_efi, v_efi] = coord_pef_efi(r_pef, v_pef, 0.0, 0.0)
-    [slat, slon, sh] = coord_efi_wgs84(r_efi)
-    [r_enu, v_enu] = coord_efi_enu(r_efi, v_efi, lat, lon, 0)
-    [az, el] = coord_enu_azel(r_enu, v_enu)
+    [r_tod, v_tod] = coord_mod_tod(JT, r_mod, v_mod, N);
+    [r_pef, v_pef] = coord_tod_pef(JT, r_tod, v_tod, N);
+    [r_efi, v_efi] = coord_pef_efi(r_pef, v_pef, 0.1362/3600, 0.4693/3600);
+    [slat, slon, sh] = coord_efi_wgs84(r_efi);
+    [r_enu, v_enu] = coord_efi_enu(r_efi, v_efi, lat, lon, 0);
+    [az, el] = coord_enu_azel(r_enu, v_enu);
 
     r_obs = coord_wgs84_efi(lat, lon, alt);
     r_S = 6.96340e8;
@@ -170,18 +178,18 @@ end
 figure(1);
 clf;
 subplot(3, 1, 1);
-plot(0:24, mod(AZ_H - AZ, 360), 'LineWidth', 2);
+plot(0:24, 3600*min(mod(AZ - AZ_H, 360), mod(AZ_H - AZ, 360)), 'LineWidth', 2);
 xlabel('Hour');
-ylabel('Azimuth error (degrees)');
+ylabel('Azimuth error (arcseconds)');
 title('Error in the Position of the Sun w.r.t. JPL Horizons - 25.04.2022');
 grid on;
 set(gca, 'xtick', 0:24);
 xlim([0 24]);
 
 subplot(3, 1, 2);
-plot(0:24, mod(abs(EL - EL_H), 360), 'LineWidth', 2);
+plot(0:24, 3600*mod(abs(EL - EL_H), 360), 'LineWidth', 2);
 xlabel('Hour');
-ylabel('Elevation error (degrees)');
+ylabel('Elevation error (arcseconds)');
 grid on;
 set(gca, 'xtick', 0:24);
 xlim([0 24]);

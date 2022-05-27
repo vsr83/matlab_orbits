@@ -16,11 +16,14 @@ function [r_eq, v_eq] = coord_ecl_eq(JT, r_ecl, v_ecl)
 
 % Julian centuries after J2000.0 epoch.
 T = (JT - 2451545.0) / 36525.0;
-eps = 23.439279444444445 - 0.013010213611111 * T - 5.086111111111112e-08 *T*T ...
-     + 0.565e-07 * (T^3) - 1.6e-10 * (T^4) - 1.205555555555555e-11 * (T^5);
+
+%eps = 23.439279444444445 - 0.013010213611111 * T - 5.086111111111112e-08 *T*T ...
+%     + 0.565e-07 * (T^3) - 1.6e-10 * (T^4) - 1.205555555555555e-11 * (T^5);
+
+[eps, deps, dpsi] = nutation_iau1980(JT);
 
 % (2.57)
-T = matrix_rot1d(-eps);
+T = matrix_rot1d(-(eps + deps));
 
 r_eq = T * r_ecl;
 v_eq = T * v_ecl;

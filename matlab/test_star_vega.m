@@ -123,10 +123,11 @@ for ind_JT = 1:length(JTs)
 
     [RA, decl] = aberration_stellar(JT, RA0, decl0, v_obs_j2000)
     r = 1e25;
-    r_j2000 = r * [cosd(decl) * cosd(RA); ...
-                cosd(decl) * sind(RA); ...
-                sind(decl)];
+    r_j2000 = r * [cosd(decl0) * cosd(RA0); ...
+                cosd(decl0) * sind(RA0); ...
+                sind(decl0)];
     v_j2000 = 0 * r_j2000;
+    r_j2000 = aberration_stellar_cart(JT, r_j2000, v_obs_j2000);
     
     [r_mod, v_mod] = coord_j2000_mod(JT, r_j2000, v_j2000);    
     [r_tod, v_tod] = coord_mod_tod(JT, r_mod, v_mod, N);
