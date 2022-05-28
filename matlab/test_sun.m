@@ -153,9 +153,9 @@ for ind_time = 1:num_times
     [r_eq_sun, v_eq_sun] = coord_ecl_eq(JT, -r_ec_earth, -v_ec_earth);
 
     r_eq_sun = aberration_stellar_cart(JT, r_eq_sun, v_obs_j2000);
-    [r_ecl_sun2, v_ecl_sun2] = coord_eq_ecl(JT, r_eq_sun, v_eq_sun);
-    ELON = [ELON; atan2d(r_ecl_sun2(2), r_ecl_sun2(1))];
-    ELAT = [ELAT; asind(r_ecl_sun2(3) / norm(r_ecl_sun2))];
+    %[r_ecl_sun2, v_ecl_sun2] = coord_eq_ecl(JT, r_eq_sun, v_eq_sun);
+    %ELON = [ELON; atan2d(r_ecl_sun2(2), r_ecl_sun2(1))];
+    %ELAT = [ELAT; asind(r_ecl_sun2(3) / norm(r_ecl_sun2))];
 
     [r_mod, v_mod] = coord_j2000_mod(JT, r_eq_sun, v_eq_sun);
     [r_tod, v_tod] = coord_mod_tod(JT, r_mod, v_mod, N);

@@ -16,7 +16,7 @@ function [r_ecl, v_ecl] = vsop87_mercury(JT)
 % VSOP87 solutions, Astron. Astrophys., 1988.
 
 
-t = (JT - 2451_545.0) / 365_250;
+t = (JT - 2451545.0) / 365250;
 
 load ../data/VSOP87A_mercury.txt;
 

@@ -16,7 +16,7 @@ function [RA, decl] = aberration_stellar(JT, RA, decl, dv_j2000)
 % [1] Meeus - Astronomical Algorithms 1998, Chapter 23
 
 % Number of Julian centuries from J2000: 
-T = (JT - 2451545.0)/36525.0
+T = (JT - 2451545.0)/36525.0;
 
 if nargin == 3
     dv_j2000 = [0; 0; 0];
@@ -197,7 +197,6 @@ au = 149597870700;
 % From m/s to 10e-8 au/day;
 factor = 86164.0905 * 1e8 / au;
 
-dv_j2000 * factor
 v_x = sum(v_x) + factor * dv_j2000(1);
 v_y = sum(v_y) + factor * dv_j2000(2);
 v_z = sum(v_z) + factor * dv_j2000(3);
