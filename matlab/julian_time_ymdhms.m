@@ -1,5 +1,5 @@
 function [JT, JD] = julian_time_ymdhms(year, month, mday, hour, minute, second)
-% JULIAN_TIME_YMDHMS - Compute Julian Time
+% JULIAN_TIME_YMDHMS - Compute Julian Time from UTC/UT1 time and date.
 %
 % INPUTS:
 %   year       Year as an integer.

@@ -1,5 +1,5 @@
 function [r_in, v_in] = coord_perifocal_inertial(r_per, v_per, Omega, incl, omega)
-% COORD_PERIFOCAL_INERTIAL - Perifocal perifocal coordinates to inertial
+% COORD_PERIFOCAL_INERTIAL - Convert perifocal coordinates to inertial
 % system.
 %
 % INPUTS:

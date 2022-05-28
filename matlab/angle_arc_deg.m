@@ -4,9 +4,9 @@ function [angle] = angle_arc_deg(deg, arcmin, arcsec)
 % Convert angle in the degree, arcmin, arcsec format to degrees.
 %
 % INPUTS:
-%   deg        The hour angle (0-23).
-%   arcmin     The minute angle (0-59).
-%   arcsec     The sec angle (0-59).
+%   deg        The degree (integer).
+%   arcmin     The minute angle (integer).
+%   arcsec     The sec angle (floating point).
 %
 % OUTPUTS:
 %   angle      The angle in degrees.

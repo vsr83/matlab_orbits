@@ -7,9 +7,9 @@ function [deg, arcmin, arcsec] = angle_deg_arc(angle)
 %   angle      The angle in degrees.
 %
 % OUTPUTS:
-%   deg        The hour angle (0-23).
-%   arcmin     The minute angle (0-59).
-%   arcsec     The sec angle (0-59).
+%   deg        The hour angle (Integer).
+%   arcmin     The minute angle (Integer).
+%   arcsec     The sec angle (Floating point).
 %
 
 % Limit to the interval [0, 360):

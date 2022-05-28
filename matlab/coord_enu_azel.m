@@ -1,6 +1,5 @@
 function [az, el, dazdt, deldt] = coord_enu_azel(r_enu, v_enu)
-% COORD_EFI_ENU - Convert coordinates and velocities between the ENU and 
-% EFI frames.
+% COORD_ENU_AZEL - Compute azimuth and elevation from ENU position.
 %
 % INPUTS:
 %   r_enu      The position in ENU (3 x n).

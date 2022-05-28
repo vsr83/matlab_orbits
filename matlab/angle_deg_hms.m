@@ -7,9 +7,9 @@ function [hour, minute, sec] = angle_deg_hms(angle)
 %   angle      The angle in degrees.
 %
 % OUTPUTS:
-%   hour       The hour angle (0-23).
-%   minute     The minute angle (0-59).
-%   sec        The sec angle (0-59).
+%   hour       The hour angle (Integer, 0-23).
+%   minute     The minute angle (Integer, 0-59).
+%   sec        The sec angle (Floating point, 0-59).
 %
 
 hour_size = 360.0 / 24.0;

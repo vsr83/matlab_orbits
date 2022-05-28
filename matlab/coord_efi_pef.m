@@ -1,6 +1,6 @@
-function [r_pef, v_pef] = coord_pef_efi(r_efi, v_efi, xp, yp)
-% COORD_PEF_EFI - Convert coordinates and velocities between the PEF and 
-% EFI frames.
+function [r_pef, v_pef] = coord_efi_pef(r_efi, v_efi, xp, yp)
+% COORD_PEF_EFI - Convert coordinates and velocities between the EFI and 
+% PEF frames.
 %
 % The rotation matrix between the PEF and EFI frames is the Polar Motion 
 % Matrix.

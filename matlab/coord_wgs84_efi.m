@@ -1,6 +1,6 @@
 function r = coord_wgs84_efi(lat, lon, h)
-% COORD_WGS84_EFI - Compute the latitude, longitude and altitude in WGS84 
-% from EFI position.
+% COORD_WGS84_EFI - Compute EFI position from the latitude, longitude and 
+% altitude on WGS84.
 %
 % INPUTS:
 %   lat        Latitude in WGS84 (in degrees).

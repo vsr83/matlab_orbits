@@ -1,5 +1,5 @@
 function [JT, JD] = julian_time_ts(ts, ts_format)
-% JULIAN_DATE_TS - Compute Julian Time from timestamps
+% JULIAN_DATE_TS - Compute Julian Time from timestamps.
 %
 % INPUTS:
 %   ts         Date in the format YYYY-MM-DD HH:MM:SS[.ssssss]

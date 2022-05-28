@@ -1,4 +1,4 @@
-function [r_mod, v_mod] = coord_j2000_mod(JD, r_j2000, v_j2000)
+function [r_j2000, v_j2000] = coord_mod_j2000(JD, r_mod, v_mod)
 % COORD_MOD_J2000 - Convert coordinates and velocities between the MoD 
 % and J2000 frames.
 %
@@ -20,5 +20,5 @@ function [r_mod, v_mod] = coord_j2000_mod(JD, r_j2000, v_j2000)
 
 % The Precession Matrix
 P = matrix_j2000_mod(JD);
-r_mod = P' * r_j2000;
-v_mod = P' * v_j2000;
+r_j2000 = P' * r_mod;
+v_j2000 = P' * v_mod;

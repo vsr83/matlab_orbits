@@ -4,9 +4,9 @@ function [angle] = angle_hms_deg(hour, minute, sec)
 % Convert angle in the hour, minute, sec format to degrees.
 %
 % INPUTS:
-%   hour       The hour angle (0-23).
-%   minute     The minute angle (0-59).
-%   sec        The sec angle (0-59).
+%   hour       The hour angle (Integer, 0-23).
+%   minute     The minute angle (Integer, 0-59).
+%   sec        The sec angle (Floating point, 0-60).
 %
 % OUTPUTS:
 %   angle      The angle in degrees.

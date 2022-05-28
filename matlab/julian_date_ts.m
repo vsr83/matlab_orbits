@@ -1,5 +1,5 @@
 function JD = julian_date_ts(ts, ts_format)
-% JULIAN_DATE_TS - Compute Julian Date
+% JULIAN_DATE_TS - Compute Julian Date from timestamp.
 %
 % INPUTS:
 %   ts         Date in the format YYYY-MM-DD

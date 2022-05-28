@@ -1,5 +1,5 @@
 function E = kepler_solve(M, ecc, tolerance, max_iterations)
-% SOLVE_KEPLER - Solve the Kepler equation
+% KEPLER_SOLVE - Solve the Kepler equation in degrees.
 %   
 % INPUTS: 
 %   M              The Mean Anomaly (in degrees).

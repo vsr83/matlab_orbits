@@ -1,6 +1,6 @@
 function [r_tod, v_tod] = coord_pef_tod(JT, r_pef, v_pef, N)
-% COORD_MOD_TOD - Convert coordinates and velocities between the ToD and 
-% PEF frames.
+% COORD_PEF_TOD - Convert coordinates and velocities between the PEF and
+% ToD frames.
 %
 % The rotation matrix between the ToD and PEF frames is the Earth Rotation
 % matrix.
