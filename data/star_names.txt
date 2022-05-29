@@ -1,0 +1,4559 @@
+Tau Phoenicis
+HR 9082
+Theta Octantis
+HR 9085
+29 Piscium
+30 Piscium
+85 Pegasi (HR 9088)
+Zeta Sculptoris
+32 c Piscium
+2 Ceti
+9 Cassiopeiae
+HR 9101
+3 Ceti
+HR 9108
+HR 9104
+XHIP 418
+33 Piscium
+86 Pegasi
+Gliese 9002 A
+10 Cassiopeiae
+HR 12
+HR 13
+21 Alpha Andromedae (Alpheratz)
+87 Pegasi
+11 Beta Cassiopeiae (Caph)
+Kappa-1 Sculptoris
+Epsilon Phoenicis
+34 Piscium
+Gamma-3 Octantis (HR 30)
+22 Andromedae
+6 Ceti
+Kappa-2 Sculptoris (HR 34)
+Theta Sculptoris
+HR 37
+88 Gamma Pegasi (Algenib)
+HR 47
+23 Andromedae
+XHIP 1158
+89 chi Pegasi
+7 Ceti
+HR 51
+HR 57
+HR 60
+24 Theta Andromedae
+HR 62
+25 Sigma Andromedae
+HR 71
+8 Iota Ceti (Deneb Kaitos Shemali)
+Zeta Tucanae
+HR 78
+41 d Piscium
+Pi Tucanae (HR 83)
+HR 79
+27 Rho Andromedae
+Iota Sculptoris
+T Ceti
+XHIP 1921
+12 Cassiopeiae
+HR 96
+44 Piscium
+Beta Hydri
+Kappa Phoenicis
+Alpha Phoenicis (Ankaa)
+Eta Sculptoris
+47 TV Piscium
+HR 104
+HR 109
+12 Ceti
+28 Andromedae
+HR 113
+HR 118
+HR 120
+Lambda-1 Phoenicis (HR 125)
+Beta-1 Tucanae (HR 126)
+Beta-2 Tucanae (HR 127)
+HR 124
+14 Lambda Cassiopeiae
+51 Piscium
+52 Piscium
+Beta-3 Tucanae
+15 Kappa Cassiopeiae
+HR 138
+Gliese 22.2
+13 Ceti
+Lambda-2 Phoenicis (HR 147)
+HR 144
+HR 146
+XHIP 2900
+53 Piscium
+29 Pi Andromedae
+17 Zeta Cassiopeiae
+Gliese 25 (HR 159)
+HR 157
+30 Epsilon Andromedae
+HR 164
+31 Delta Andromedae
+55 Piscium
+18 Alpha Cassiopeiae (Schedar)
+32 Andromedae
+Mu Phoenicis (HR 180)
+Xi Phoenicis
+HR 177
+19 Xi Cassiopeiae
+Rho Tucanae
+Eta Phoenicis
+20 Pi Cassiopeiae
+16 Beta Ceti (Diphda)
+17 Phi-1 Ceti
+68 Cassiopeiae (HR 189)
+22 Omicron Cassiopeiae
+Gliese 31.3 (HR 197)
+Lalande 1171
+21 YZ Cassiopeiae
+Gliese 1021
+XHIP 3607
+57 Piscium
+58 Piscium
+34 Zeta Andromedae
+HR 218
+23 Cassiopeiae
+HR 220
+Gliese 33 (Wolf 25)
+Lambda Hydri
+63 Delta Piscium
+25 Nu Cassiopeiae
+64 Piscium
+24 Eta Cassiopeiae (Achird)
+XHIP 3849
+35 Nu Andromedae
+65 i Piscium
+19 Phi-2 Ceti
+Rho Phoenicis
+HR 233
+HR 247
+20 Ceti
+Gliese 41 (HR 244)
+XHIP 4200
+66 Piscium
+HR 240
+36 Andromedae
+26 Upsilon-1 Cassiopeiae
+Lambda-2 Tucanae
+HR 263
+22 Phi-3 Ceti
+28 Upsilon-2 Cassiopeiae
+27 Gamma Cassiopeiae
+37 Mu Andromedae
+HR 266
+38 Eta Andromedae
+68 h Piscium
+HR 273
+Alpha Sculptoris
+23 Phi-4 Ceti
+HR 283
+Xi Sculptoris
+Sigma Sculptoris
+69 Sigma Piscium
+HR 299
+71 Epsilon Piscium
+25 Ceti
+HR 297
+72 Piscium
+74 Psi-1 Piscium (HR 310)
+74 Psi-1 Piscium (HR 311)
+28 Ceti
+Beta Phoenicis
+Iota Tucanae
+30 Ceti
+Upsilon Phoenicis
+79 Psi-2 Piscium
+41 Andromedae
+30 Mu Cassiopeiae (Marfak )
+80 e Piscium
+Zeta Phoenicis
+HR 326
+31 Eta Ceti (Dheneb)
+2 Ursae Minoris (HR 285)
+42 Phi Andromedae
+43 Beta Andromedae (Mirach)
+81 Psi-3 Piscium
+44 Andromedae
+HR 341
+31 Cassiopeiae
+33 Theta Cassiopeiae (Marfak )
+82 g Piscium
+45 Andromedae
+HR 342
+84 chi Piscium
+83 Tau Piscium
+32 Cassiopeiae
+HR 333
+86 Zeta Piscium (HR 361)
+85 Phi Piscium
+87 Piscium
+37 Ceti
+38 Ceti
+Nu Phoenicis
+Kappa Tucanae
+XHIP 5926
+39 Ceti
+89 f Piscium
+90 Upsilon Piscium
+34 Phi Cassiopeiae
+91 l Piscium
+46 Xi Andromedae (Adhil)
+HR 400
+47 Andromedae
+45 Theta Ceti
+HR 408
+46 Ceti
+37 Delta Cassiopeiae (Ruchbah)
+36 Psi Cassiopeiae
+93 Rho Piscium
+94 Piscium
+47 Ceti
+48 Omega Andromedae
+Gamma Phoenicis
+48 Ceti
+49 A Andromedae
+98 Mu Piscium
+38 Cassiopeiae
+Delta Phoenicis
+99 Eta Piscium (Al'farg)
+HR 441
+HR 445
+HR 439
+Gliese 59.2 (HR 448)
+39 chi Cassiopeiae
+XHIP 7321
+49 Ceti
+HR 450
+50 Ceti
+Tau Sculptoris
+50 Upsilon Andromedae
+102 Pi Piscium
+HR 525
+Alpha Eridani (Achernar)
+51 Andromedae
+HR 461
+40 Cassiopeiae
+HR 473
+52 chi Andromedae
+p Eridani
+53 Tau Andromedae
+HR 476
+106 Nu Piscium
+XHIP 7916
+Gliese 67 (HR 483)
+HR 505
+HR 498
+HR 490
+Pi Sculptoris (HR 497)
+43 Cassiopeiae
+q1 Eridani (HR 506)
+107 Piscium
+HR 500
+42 Cassiopeiae
+44 Cassiopeiae
+Phi Persei
+52 Tau Ceti
+110 Omicron Piscium (Torcularis Septentrionalis)
+Epsilon Sculptoris
+HR 513
+120 Phoenicis (HR 519)
+q2 Eridani (HR 520)
+Gliese 75
+4 Arietis
+Gliese 3115
+53 chi Ceti
+1 Arietis
+XHIP 8593
+55 Zeta Ceti (Baten Kaitos)
+1 Persei
+2 Persei
+XHIP 8778
+2 Alpha Trianguli (Metallah)
+55 Andromedae
+5 Gamma-1 Arietis (Mesarthim)
+111 Xi Piscium
+Psi Phoenicis
+Phi Phoenicis
+45 Epsilon Cassiopeiae (Segin)
+6 Beta Arietis (Sheratan)
+Eta-2 Hydri (HR 570)
+7 Arietis
+chi Eridani
+46 Omega Cassiopeiae
+56 Andromedae
+56 Ceti
+HR 574
+8 Iota Arietis
+HR 564
+9 Lambda Arietis
+3 Persei
+Alpha Hydri
+HR 567
+HR 588
+57 Ceti
+59 Upsilon Ceti
+XHIP 9372
+Pi Fornacis (HR 594)
+chi Phoenicis
+48 A Cassiopeiae
+113 Alpha Piscium (Alrisha)
+4 g Persei
+3 Epsilon Trianguli
+53 Cassiopeiae
+60 Ceti
+50 Cassiopeiae
+10 Arietis
+HR 611
+57 Gamma-1 Andromedae (Almach)
+Nu Fornacis
+47 Cassiopeiae
+49 Cassiopeiae
+12 Kappa Arietis
+13 Alpha Arietis (Hamal)
+58 Andromedae
+XHIP 9990
+HR 632
+14 Arietis
+4 Beta Trianguli
+15 Arietis
+64 Ceti
+6 Trianguli
+66 Ceti
+17 Eta Arietis
+Mu Fornacis (HR 652)
+65 Xi-1 Ceti
+19 Arietis
+60 b Andromedae
+6 Persei
+Pi-1 Hydri (HR 667)
+Pi-2 Hydri (HR 678)
+21 Arietis
+20 Arietis
+7 Trianguli
+Phi Eridani
+67 Ceti
+8 Delta Trianguli
+9 Gamma Trianguli
+8 Persei
+Lalande 4268 (HR 672)
+22 Theta Arietis
+10 Trianguli
+62 c Andromedae
+68 Omicron Ceti (Mira)
+HR 688
+63 Andromedae
+Delta Hydri
+69 Ceti
+HR 692
+70 Ceti
+9 i Persei
+Kappa Fornacis
+HR 687
+HR 701
+64 Andromedae
+24 Xi Arietis
+Lambda Horologii
+65 Andromedae
+72 Rho Ceti
+XHIP 11348
+Kappa Eridani
+11 Trianguli
+Phi Fornacis
+73 Xi-2 Ceti
+12 Trianguli
+Iota Cassiopeiae
+HR 728
+Gliese 9083 (HR 737)
+Mu Hydri (HR 776)
+1 Alpha Ursae Minoris (Polaris)
+76 Sigma Ceti
+14 Trianguli
+75 Ceti
+Omega Fornacis
+77 Ceti
+HR 748
+15 Trianguli
+78 Nu Ceti
+80 Ceti
+Gliese 105 A
+Iota-1 Fornacis (HR 767)
+HR 766
+31 Arietis
+Lambda-2 Fornacis
+Eta Horologii
+HR 747
+81 Ceti
+HR 743
+Iota-2 Fornacis (HR 777)
+32 Nu Arietis
+82 Delta Ceti
+83 Epsilon Ceti
+Epsilon Hydri
+s Eridani
+Gliese 3175 (HR 784)
+Zeta Horologii
+Iota Eridani
+33 Arietis
+84 Ceti
+12 Persei
+34 Mu Arietis
+Iota Horologii
+11 Persei
+86 Gamma Ceti (Kaffaljidhma)
+35 Arietis
+14 Persei
+89 Pi Ceti
+13 Theta Persei
+37 Omicron Arietis
+HR 791
+87 Mu Ceti
+38 Arietis
+1 Tau-1 Eridani
+Gamma Horologii
+Zeta Hydri
+HR 774
+39 Arietis
+40 Arietis
+XHIP 13121
+Nu Horologii (HR 852)
+Beta Fornacis
+42 Pi Arietis
+Gamma-2 Fornacis (HR 845)
+41 c Arietis
+Nu Hydri (HR 872)
+16 Persei
+Eta-3 Fornacis (HR 851)
+15 Eta Persei (Miram)
+2 Tau-2 Eridani (Angetenar)
+43 Sigma Arietis
+17 Persei
+20 Persei
+18 Tau Persei
+45 Arietis
+Gliese 3188 (HR 860)
+3 Eta Eridani (Azha)
+46 Rho Arietis
+HR 875
+21 Persei
+4 Eridani
+47 Arietis
+6 Eridani
+Theta-1 Eridani (Acamar)
+XHIP 13874
+22 Pi Persei (Gorgonea Secunda)
+Beta Horologii
+24 Persei
+48 Epsilon Arietis
+Zeta Fornacis
+5 Eridani
+91 Lambda Ceti (Menkar)
+HR 885
+HR 890
+8 Rho-1 Eridani
+49 Arietis
+Theta Hydri
+92 Alpha Ceti (Menkar)
+93 Ceti
+11 Tau-3 Eridani
+9 Rho-2 Eridani
+HR 929
+Mu Horologii (HR 934)
+10 Rho-3 Eridani
+23 Gamma Persei
+25 Rho Persei (Gorgonea Tertia)
+52 Arietis
+k Persei
+XHIP 14417
+HR 931
+HR 935
+HR 922
+XHIP 14521
+26 Beta Persei (Algol)
+Iota Persei
+27 Kappa Persei (Misam)
+55 Arietis
+HR 948
+28 Omega Persei (Gorgonea Quarta)
+57 Delta Arietis (Botein)
+HR 906
+HR 932
+Alpha Fornacis
+56 Arietis
+g Tauri
+XHIP 14930
+94 Ceti
+58 Zeta Arietis
+HR 971
+HR 964
+13 Zeta Eridani (Zibal)
+Iota Hydri
+HR 969
+HR 998
+Zeta-1 Reticuli
+HR 986
+30 Persei
+Zeta-2 Reticuli
+15 Eridani
+95 Ceti
+29 Persei
+HR 997
+HR 991
+31 Persei
+96 Kappa Ceti
+16 Tau-4 Eridani
+XHIP 15479
+82 e Eridani
+HR 985
+HR 961
+HR 999
+97 Ceti
+61 Tau Arietis
+HR 1016
+32 l Persei
+62 Arietis
+63 Arietis
+XHIP 15770
+64 Arietis
+33 Alpha Persei (Mirphak)
+XHIP 15876
+XHIP 15890
+1 Omicron Tauri
+2 Xi Tauri
+chi Fornacis (HR 1054)
+HR 1050
+HR 1034
+HR 1041
+HR 1037
+XHIP 16228
+34 Persei
+Kappa Reticuli
+HR 1062
+XHIP 16281
+HR 1075
+HR 1109
+HR 1046
+4 s Tauri
+35 Sigma Persei
+HR 1051
+17 v Eridani
+HR 1092
+5 f Tauri
+XHIP 16470
+HR 965
+36 Persei
+HR 1090
+6 t Tauri
+HR 1074
+18 Epsilon Eridani
+XHIP 16591
+19 Tau-5 Eridani
+7 Tauri
+HR 1098
+20 Eridani
+37 Psi Persei
+XHIP 16846
+10 Tauri
+y Eridani
+12 Tauri
+22 Eridani
+HR 1113
+XHIP 17296
+Delta Fornacis
+13 Tauri
+40 o Persei
+HR 1112
+h Eridani
+39 Delta Persei
+23 Delta Eridani (Rana)
+HR 1139
+Beta Reticuli
+38 Omicron Persei (Atik)
+24 Eridani
+HR 1133
+16 Tauri (Celaeno)
+17 Tauri (Electra)
+25 Eridani
+18 Tauri
+41 Nu Persei
+19 q Tauri (Taygeta)
+HR 1169
+29 u Tauri
+20 Tauri (Maia)
+21 Tauri (Asterope)
+HR 1141
+HR 1124
+HR 1129
+26 Pi Eridani
+23 Tauri (Merope)
+Sigma Fornacis
+27 Tau-6 Eridani
+Gamma Hydri
+25 Eta Tauri (Alcyone)
+28 Tau-7 Eridani
+Rho Fornacis
+30 e Tauri
+HR 1172
+f Eridani
+HR 1187
+27 Tauri (Atlas)
+28 Tauri (Pleione)
+HR 1138
+g Eridani
+XHIP 17884
+42 n Persei
+(Moai 1)
+HR 1176
+HR 1188
+Gamma Camelopardalis
+HR 1191
+31 Tauri
+30 Eridani
+HR 1198
+i Eridani
+33 Tau-8 Eridani
+HR 1192
+44 Zeta Persei (Atik)
+32 w Eridani
+XHIP 18262
+HR 1207
+HR 1215
+43 A Persei
+32 Tauri
+HR 1205
+HR 1204
+45 Epsilon Persei
+34 Gamma Eridani (Zaurak)
+Delta Reticuli
+XHIP 18606
+46 Xi Persei (Menkib)
+HR 1235
+36 Tau-9 Eridani
+HR 1246
+35 Lambda Tauri
+HR 1238
+Gamma Reticuli
+Iota Reticuli
+35 Eridani
+HR 1243
+Gliese 159
+38 Nu Tauri
+40 Tauri
+HR 1254
+XHIP 18993
+36 Tauri
+HR 1265
+HR 1242
+37 A1 Tauri
+Gliese 9143
+HR 1241
+47 Lambda Persei
+41 Tauri
+42 Psi Tauri
+50 Persei
+48 c Persei
+HR 1284
+43 Tauri
+XHIP 19398
+HR 1107
+XHIP 19461
+37 Eridani
+HR 1293
+44 p Tauri
+Delta Horologii
+HR 1286
+45 Tauri
+XHIP 19571
+38 Omicron-1 Eridani (Beid)
+46 Tauri
+47 Tauri
+Alpha Horologii
+39 A Eridani
+Alpha Reticuli
+HR 1315
+HR 1340
+52 f Persei
+51 Mu Persei
+40 Omicron-2 Eridani (Keid)
+49 Mu Tauri
+Gamma Doradus
+Epsilon Reticuli
+HR 1314
+HR 1305
+HR 1313
+50 Omega Tauri
+Theta Reticuli
+41 Upsilon-4 Eridani
+Delta Mensae
+b Persei
+XHIP 20075
+51 Tauri
+HR 1330
+HR 1364
+53 Tauri
+56 Tauri
+54 Gamma Tauri (Hyadum I)
+57 h Tauri
+b2 Persei (HR 1333)
+52 Phi Tauri
+54 Persei
+58 Tauri
+HR 1367
+HR 1327
+HR 1360
+d Eridani (HR 1363)
+Nu Mensae (HR 1456)
+53 d Persei
+HR 1335
+HR 1342
+Eta Reticuli
+60 Tauri
+XHIP 20417
+59 chi Tauri
+61 Delta Tauri (Hyadum II)
+HR 1384
+63 Tauri
+42 Xi Eridani
+66 r Tauri
+43 d Eridani
+64 Tauri
+55 Persei
+56 Persei
+65 Kappa Tauri
+67 Tauri
+68 Tauri
+HR 1390
+69 Upsilon Tauri
+71 Tauri
+73 Pi Tauri
+HR 1317
+72 Tauri
+XHIP 20804
+HR 1435
+HR 1403
+XHIP 20860
+76 Tauri
+75 Tauri
+44 Eridani (HR 1415)
+77 Theta-1 Tauri
+74 Epsilon Tauri (Ain)
+78 Theta-2 Tauri
+79 b Tauri
+XHIP 20922
+HR 1304
+80 Tauri
+Gliese 170.1 (HR 1427)
+83 Tauri
+81 Tauri
+Delta Caeli
+45 Eridani
+1 Camelopardalis
+XHIP 21192
+50 Upsilon-1 Eridani
+HR 1475
+86 Rho Tauri
+46 Eridani
+Alpha Doradus
+HR 1448
+47 Eridani
+HR 1452
+HR 1445
+52 Upsilon-2 Eridani (Theemim)
+88 d Tauri
+87 Alpha Tauri (Aldebaran)
+48 Nu Eridani
+HR 1440
+58 e Persei
+R Doradus
+49 Eridani
+51 c Eridani
+89 Tauri
+90 c1 Tauri
+53 l Eridani (Sceptrum)
+XHIP 21604
+HR 1483
+HR 1480
+91 Sigma-1 Tauri
+92 Sigma-2 Tauri
+HR 1487
+3 Camelopardalis
+2 Camelopardalis
+93 Tauri
+HR 1495
+54 Eridani
+Alpha Caeli
+HR 1490
+HR 1482
+Beta Caeli
+94 Tau Tauri
+Lambda Pictoris
+59 Persei
+Mu Mensae (HR 1541)
+HR 1509
+HR 1493
+56 Eridani
+HR 1513
+Kappa Doradus
+HR 1507
+HR 1521
+57 Mu Eridani
+HR 1519
+58 Eridani
+4 Camelopardalis
+59 Eridani
+Gliese 177.1
+HR 1529
+HR 1528
+1 Pi-3 Orionis (Tabit )
+1 Aurigae
+60 Eridani
+2 Pi-2 Orionis
+Iota Pictoris
+HR 1535
+3 Pi-4 Orionis
+97 i Tauri
+XHIP 22573
+HR 1527
+4 Omicron-1 Orionis
+2 Aurigae
+HR 1550
+61 Omega Eridani
+5 Orionis
+9 Alpha Camelopardalis
+8 Pi-5 Orionis
+6 g Orionis
+HR 1571
+HR 1574
+7 Pi-1 Orionis
+5 Camelopardalis
+HR 1579
+Eta Mensae
+R Eridani
+HR 1576
+HR 1561
+9 Omicron-2 Orionis
+62 b Eridani
+3 Iota Aurigae (Hassaleh)
+7 Camelopardalis
+HR 1585
+99 Tauri
+98 k Tauri
+10 Pi-6 Orionis
+Xi Mensae
+HR 1604
+4 Aurigae
+63 Eridani
+64 S Eridani
+HR 1523
+HR 1621
+65 Psi Eridani
+7 Epsilon Aurigae (Al Anz)
+HR 1628
+8 Zeta Aurigae (Hoedus I)
+Beta Mensae
+1 Leporis
+Eta-1 Pictoris (HR 1649)
+102 Iota Tauri
+10 Beta Camelopardalis
+HR 1645
+Gamma Caeli
+11 Orionis
+Eta-2 Pictoris (HR 1663)
+HR 1655
+W Orionis
+2 Epsilon Leporis
+Zeta Doradus
+11 Camelopardalis
+10 Eta Aurigae (Hoedus II )
+9 Aurigae
+66 Eridani
+104 m Tauri
+XHIP 23840
+106 l Tauri
+67 Beta Eridani (Cursa)
+14 i Orionis
+105 Tauri
+103 Tauri
+HR 1671
+68 Eridani
+69 Lambda Eridani
+16 h Orionis
+15 Orionis
+HR 1668
+HR 1687
+XHIP 24169
+HR 1684
+3 Iota Leporis
+XHIP 24254
+5 Mu Leporis
+4 Kappa Leporis
+17 Rho Orionis
+11 Mu Aurigae
+Theta Doradus
+HR 1721
+19 Beta Orionis (Rigel)
+HR 1709
+14 Aurigae
+HR 1723
+18 Orionis
+13 Alpha Aurigae (Capella)
+Omicron Columbae
+20 Tau Orionis
+HR 1737
+16 Aurigae
+HR 1683
+XHIP 24738
+XHIP 24799
+15 Lambda Aurigae
+21 Orionis
+109 n Tauri
+Zeta Pictoris
+HR 1758
+6 Lambda Leporis
+7 Nu Leporis
+19 Aurigae
+HR 1738
+HR 1720
+HR 1762
+HR 1752
+HR 1764
+HR 1763
+22 o Orionis
+HR 1771
+20 Rho Aurigae
+Gliese 196 (HR 1686)
+23 m Orionis
+HR 1760
+HR 1778
+XHIP 25194
+16 Camelopardalis
+8 Leporis
+HR 1781
+29 e Orionis
+111 Tauri
+HR 1792
+28 Eta Orionis
+27 p Orionis
+HR 1776
+21 Sigma Aurigae
+25 Orionis
+HR 1799
+24 Gamma Orionis (Bellatrix)
+HR 1812
+112 Beta Tauri (Alnath)
+Lambda Doradus
+HR 1795
+30 Psi Orionis
+HR 1827
+HR 1804
+115 Tauri
+114 o Tauri
+24 Phi Aurigae
+116 Tauri
+117 Tauri
+9 Beta Leporis (Nihal)
+HR 1835
+118 Tauri
+HR 1830
+31 Orionis
+HR 1833
+HR 1856
+17 Camelopardalis
+HR 1832
+32 A Orionis
+10 Leporis
+Epsilon Columbae
+33 n1 Orionis
+Gamma Mensae
+36 Upsilon Orionis (Thabit)
+34 Delta Orionis (Mintaka)
+119 CE Tauri
+HR 1847
+HR 1861
+25 chi Aurigae
+11 Alpha Leporis (Arneb)
+HR 1877
+28 Doradus (HR 1917)
+HR 1881
+VV Orionis
+120 Tauri
+Beta Doradus
+35 Orionis
+38 n2 Orionis
+XHIP 26169
+37 Phi-1 Orionis
+HR 1886
+HR 1887
+39 Lambda Orionis (Heka)
+HR 1883
+HR 1909
+41 Theta-1 Orionis
+41 Theta-1 Orionis (HR 1895)
+41 Theta-1 Orionis (HR 1896)
+43 Theta-2 Orionis
+42 c Orionis
+44 Iota Orionis (Hatsya)
+121 Tauri
+45 Orionis
+46 Epsilon Orionis (Alnilam)
+HR 1866
+HR 1911
+40 Phi-2 Orionis
+122 Tauri
+Pi Mensae
+XHIP 26396
+HR 1918
+123 Zeta Tauri
+Nu-2 Columbae (HR 1935)
+HR 1920
+HR 1933
+26 Aurigae
+HR 1947
+48 Sigma Orionis
+XHIP 26551
+49 d Orionis
+47 Omega Orionis
+Alpha Columbae (Phakt)
+125 Tauri
+HR 1958
+50 Zeta Orionis (Alnitak)
+HR 1952
+126 Tauri
+12 Leporis
+XHIP 26868
+HR 1916
+51 b Orionis
+HR 1975
+13 Gamma Leporis
+Delta Doradus
+27 Omicron Aurigae
+Mu Columbae (HR 1996)
+HR 2008
+26 Camelopardalis
+129 Tauri
+HR 1987
+14 Zeta Leporis
+131 Tauri
+Beta Pictoris
+130 Tauri
+133 Tauri
+53 Kappa Orionis (Saiph)
+52 Orionis
+132 Tauri
+29 Tau Aurigae
+134 Tauri
+XHIP 27517
+Gamma Pictoris
+HR 2026
+Epsilon Doradus
+HR 2014
+Kappa Mensae
+135 Tauri
+HR 2049
+Beta Columbae (Wazn)
+HR 2013
+31 Upsilon Aurigae
+15 Delta Leporis
+55 Orionis
+32 Nu Aurigae
+HR 2039
+137 Tauri
+56 Orionis
+HR 2053
+Lambda Columbae
+136 Tauri
+36 Doradus
+54 chi Orionis
+HR 2065
+XHIP 27947
+30 Xi Aurigae
+HR 2082
+57 Orionis
+31 Camelopardalis
+HR 2046
+58 Alpha Orionis (Betelgeuse)
+Xi Columbae
+Sigma Columbae
+16 Eta Leporis
+HR 2075
+Gamma Columbae
+139 Tauri
+59 Orionis
+HR 2117
+60 Orionis
+XHIP 28302
+2 Monocerotis
+Eta Columbae
+33 Delta Aurigae
+34 Beta Aurigae (Menkalinan)
+37 Theta Aurigae
+35 Pi Aurigae
+HR 2113
+HR 2138
+36 Aurigae
+HR 2131
+3 Monocerotis
+61 Mu Orionis
+XHIP 28675
+64 Orionis
+62 chi Orionis
+1 Geminorum (Propus)
+HR 2142
+72 Columbae
+63 Orionis
+66 Orionis
+17 Leporis
+39 Aurigae
+HR 2150
+HR 2160
+HR 2164
+Eta-1 Doradus (HR 2194)
+18 Theta Leporis
+HR 2163
+40 Aurigae
+HR 2154
+XHIP 28984
+HR 2196
+HR 2170
+Theta Columbae
+67 Nu Orionis
+19 Leporis
+Pi-2 Columbae
+Nu Doradus (HR 2221)
+HR 2180
+HR 2174
+HR 2183
+3 Geminorum
+XHIP 29234
+37 Camelopardalis
+XHIP 29263
+Alpha Mensae
+Delta Pictoris
+HR 2200
+Eta-2 Doradus
+5 Geminorum
+41 Aurigae
+HR 2205
+70 Xi Orionis
+68 Orionis
+69 f1 Orionis
+HR 2189
+36 Camelopardalis
+HR 2218
+HR 2214
+XHIP 29629
+71 Orionis
+5 Gamma Monocerotis
+7 Eta Geminorum (Tejat Prior)
+HR 2222
+44 Kappa Aurigae
+72 f2 Orionis
+XHIP 29716
+40 Camelopardalis
+HR 2244
+73 Orionis
+HR 2249
+74 k Orionis
+Kappa Columbae
+HR 2263
+75 l Orionis
+HR 2265
+Gliese 231.1 A (HR 2251)
+HR 2260
+1 Lyncis
+HR 2266
+HR 2267
+HR 2209
+HR 2271
+2 Lyncis
+HR 2279
+7 Monocerotis
+Lalande 12104 (HR 2275)
+HR 2269
+1 Zeta Canis Majoris (Furud)
+HR 2288
+HR 2284
+45 Aurigae
+Delta Columbae
+Pi-1 Doradus (HR 2352)
+2 Beta Canis Majoris (Mirzam)
+Nu Pictoris (HR 2320)
+13 Mu Geminorum (Tejat Posterior)
+8 Epsilon Monocerotis (HR 2298)
+HR 2311
+Alpha Carinae (Canopus)
+HR 2316
+HR 2305
+HR 2345
+46 Psi-1 Aurigae
+XHIP 30545
+Pi-2 Doradus
+G Puppis
+RR Lyncis
+HR 2324
+5 Lyncis
+HR 2369
+77 Orionis (HR 2334)
+78 Orionis (HR 2335)
+HR 2333
+10 Monocerotis
+Lambda Canis Majoris
+48 RT Aurigae
+HR 2359
+HR 2364
+11 Beta Monocerotis (HR 2356)
+18 Nu Geminorum
+61 Pictoris
+XHIP 30953
+HR 2380
+HR 2388
+Gliese 1089 (HR 2400)
+HR 2379
+HR 2375
+HR 2381
+4 Xi-1 Canis Majoris
+Mu Pictoris
+HR 2399
+HR 2386
+WW Aurigae
+HR 2397
+13 Monocerotis
+HR 2391
+HR 2395
+HR 2411
+HR 2415
+N Carinae (HR 2435)
+5 Xi-2 Canis Majoris
+49 Aurigae
+HR 2409
+XHIP 31457
+6 Nu-1 Canis Majoris
+UU Aurigae
+HR 2418
+7 Nu-2 Canis Majoris
+XHIP 31637
+11 Lyncis
+24 Gamma Geminorum (Alhena)
+Nu Puppis (HR 2451)
+HR 2447
+8 Nu-3 Canis Majoris
+53 Aurigae
+Y Puppis (HR 2462)
+51 Aurigae
+52 Psi-3 Aurigae
+HR 2450
+50 Psi-2 Aurigae
+54 Aurigae
+XHIP 31870
+Zeta Mensae
+HR 2363
+15 S Monocerotis
+HR 2461
+HR 2469
+26 Geminorum
+55 Psi-4 Aurigae
+HR 2479
+27 Epsilon Geminorum (Mebsuta)
+30 Geminorum
+10 Canis Majoris
+28 Geminorum
+9 Alpha Canis Majoris (Sirius)
+31 Xi Geminorum (Alzirr)
+HR 2501
+HR 2515
+HR 2498
+12 Lyncis
+Gliese 240.1
+16 Monocerotis
+HR 2502
+56 Psi-5 Aurigae
+13 Lyncis
+11 Canis Majoris
+HR 2523
+O Carinae
+17 Monocerotis
+x Puppis
+Lalande 13100 (HR 2508)
+57 Psi-6 Aurigae
+18 Monocerotis
+Alpha Pictoris
+HR 2485
+HR 2514
+XHIP 32677
+HR 2521
+XHIP 32740
+33 Geminorum
+13 Kappa Canis Majoris
+A Carinae
+X Puppis
+Tau Puppis
+HR 2535
+XHIP 32810
+35 Geminorum
+58 Psi-7 Aurigae
+Lalande 13198 (HR 2530)
+HR 2549
+42 Camelopardalis
+Iota Volantis
+36 d Geminorum
+XHIP 32968
+34 Theta Geminorum
+HR 2551
+14 Lyncis
+HR 2565
+15 Canis Majoris
+43 Camelopardalis
+16 Omicron-1 Canis Majoris
+14 Theta Canis Majoris
+HR 2572
+38 e Geminorum
+17 Canis Majoris
+37 Geminorum
+19 Pi Canis Majoris
+HR 2595
+18 Mu Canis Majoris (Isida)
+20 Iota Canis Majoris
+HR 2608
+HR 2589
+Psi-9 Aurigae (HR 2568)
+Theta Mensae
+15 Lyncis
+XHIP 33478
+16 Lyncis
+t Puppis
+HR 2616
+21 Epsilon Canis Majoris (Adara)
+Gliese 3422
+HR 2527
+41 Geminorum
+XHIP 33729
+23 Carinae (HR 2652)
+XHIP 33804
+HR 2581
+22 Sigma Canis Majoris
+HR 2639
+HR 2632
+42 Omega Geminorum
+XHIP 33929
+HR 2635
+19 Monocerotis
+24 Omicron-2 Canis Majoris
+XHIP 34000
+HR 2649
+23 Gamma Canis Majoris (Muliphein)
+H Puppis (HR 2672)
+Gliese 9223 A
+C Puppis (HR 2666)
+HR 2655
+43 Zeta Geminorum (Mekbuda)
+XHIP 34105
+HR 2663
+HR 2660
+XHIP 34301
+D Puppis (HR 2691)
+HR 2690
+HR 2682
+45 Geminorum
+25 Delta Canis Majoris (Wezen)
+Gamma-1 Volantis (HR 2735)
+Gamma-2 Volantis (HR 2736)
+A Puppis (HR 2702)
+XHIP 34579
+20 Monocerotis
+HR 2708
+Gliese 3434
+46 Tau Geminorum
+47 Geminorum
+21 Monocerotis
+63 Aurigae
+HR 2716
+22 Delta Monocerotis
+26 Canis Majoris
+E Puppis (HR 2727)
+XHIP 34817
+48 Geminorum
+I Puppis
+HR 2723
+L1 Puppis
+51 Geminorum
+XHIP 34912
+L2 Puppis
+27 Canis Majoris
+HR 2729
+HR 2739
+HR 2728
+HR 2762
+52 Geminorum
+XHIP 35029
+28 Omega Canis Majoris
+HR 2750
+HR 2759
+HR 2756
+HR 2747
+Gliese 1095 (Lalande 13942)
+18 Lyncis
+53 Geminorum
+Gliese 9228 (HR 2758)
+HR 2771
+HR 2769
+HR 2766
+145 Canis Majoris
+HR 2770
+Delta Volantis
+Pi Puppis
+64 Aurigae
+M Puppis (HR 2789)
+54 Lambda Geminorum
+v1 Puppis (HR 2787)
+HR 2751
+F Puppis (HR 2791)
+v2 Puppis
+29 UW Canis Majoris
+30 Tau Canis Majoris
+HR 2786
+R Canis Majoris
+55 Delta Geminorum (Wasat)
+XHIP 35564
+HR 2815
+XHIP 35611
+HR 2796
+XHIP 35626
+HR 2776
+56 Geminorum
+65 Aurigae
+HR 2801
+HR 2812
+HR 2811
+19 Lyncis (HR 2784)
+HR 2819
+57 A Geminorum
+HR 2822
+HR 2823
+31 Eta Canis Majoris (Aludra)
+66 Aurigae
+59 Geminorum
+HR 2825
+HR 2834
+HR 2804
+1 Canis Minoris
+XHIP 35998
+HR 2841
+Epsilon Mensae
+2 Epsilon Canis Minoris
+60 Iota Geminorum (Propus)
+HR 2862
+HR 2856
+21 Lyncis
+HR 2855
+XHIP 36186
+3 Beta Canis Minoris (Gomeisa)
+HR 2860
+63 Geminorum
+XHIP 36251
+HR 2863
+5 Eta Canis Minoris
+4 Gamma Canis Minoris
+XHIP 36345
+HR 2844
+HR 2873
+y Puppis
+62 Rho Geminorum
+Sigma Puppis
+HR 2865
+64 Geminorum
+HR 2867
+Gliese 3443 (HR 2866)
+6 Canis Minoris
+65 b Geminorum
+XHIP 36431
+22 Lyncis
+HR 2881
+HR 2830
+VZ Camelopardalis
+HR 2877
+7 Delta-1 Canis Minoris
+HR 2900
+8 Delta-2 Canis Minoris
+HR 2899
+68 Geminorum
+XHIP 36773
+z Puppis
+Gliese 279 (HR 2906)
+9 Delta-3 Canis Minoris
+n Puppis
+HR 2916
+66 Alpha Geminorum (Castor)
+XHIP 36896
+p Puppis (HR 2922)
+Q Carinae (HR 2934)
+69 Upsilon Geminorum
+HR 2921
+HR 2903
+XHIP 37036
+y2 Puppis (HR 2940)
+25 Monocerotis
+f Puppis
+HR 2914
+m Puppis
+y3 Puppis
+70 Geminorum
+e Puppis (HR 2954)
+Kappa-1 Puppis (Markeb)
+71 Omicron Geminorum
+10 Alpha Canis Minoris (Procyon)
+d1 Puppis (HR 2961)
+74 f Geminorum
+d2 Puppis (HR 2963)
+d3 Puppis (HR 2964)
+HR 2935
+140 Puppis (HR 2959)
+XHIP 37391
+HR 2939
+26 Alpha Monocerotis
+HR 2981
+HR 2966
+Zeta Volantis
+HR 2965
+XHIP 37521
+HR 2988
+Gliese 284
+24 Lyncis
+HR 2994
+75 Sigma Geminorum
+1 Puppis
+W Puppis
+3 l Puppis
+HR 2969
+76 c Geminorum
+HR 3007
+77 Kappa Geminorum
+XHIP 37751
+HR 3011
+c Puppis
+78 Beta Geminorum (Pollux)
+171 Puppis
+4 Puppis
+HR 3014
+81 g Geminorum
+HR 3022
+11 Canis Minoris
+XHIP 37946
+HR 3023
+HR 3035
+80 Pi Geminorum
+HR 3037
+5 Puppis
+Omicron Puppis
+Q Puppis (HR 3046)
+188 Puppis (HR 3043)
+HR 3062
+XHIP 38159
+HR 3070
+P Puppis (HR 3055)
+XHIP 38167
+7 Xi Puppis (Azmidiske)
+HR 3052
+HR 3081
+6 Puppis
+HR 3047
+XHIP 38370
+13 Zeta Canis Minoris
+HR 3068
+9 Puppis
+a Puppis
+212 Puppis
+10 Puppis
+XHIP 38438
+b Puppis
+HR 3072
+HR 3085
+HR 3089
+J Puppis (HR 3090)
+83 Phi Geminorum
+HR 3091
+26 Lyncis
+HR 3105
+HR 3087
+85 Geminorum
+XHIP 38732
+HR 3120
+chi Carinae
+11 j Puppis
+HR 3114
+1 Cancri
+N Puppis (HR 3116)
+chi Puppis (HR 3113)
+Gliese 294 A
+O Puppis (HR 3121)
+V Puppis
+14 Canis Minoris
+HR 3147
+HR 3137
+12 Puppis
+HR 3140
+XHIP 39070
+27 Monocerotis
+HR 3131
+HR 3075
+D Carinae (HR 3159)
+3 Cancri
+HR 3156
+28 Monocerotis
+HR 3136
+HR 3106
+5 Cancri
+HR 3154
+G Canis Minoris (HR 3145)
+XHIP 39360
+HR 3160
+chi Geminorum
+Zeta Puppis (Naos)
+XHIP 39487
+HR 3082
+HR 3180
+8 Cancri
+HR 3187
+HR 3183
+15 Rho Puppis
+10 Mu Cancri
+Epsilon Volantis
+27 Lyncis
+29 Zeta Monocerotis
+B Carinae
+16 Puppis
+XHIP 39919
+HR 3194
+Gamma-2 Velorum (Suhail al Muhlif)
+HR 3218
+HR 3204
+XHIP 39970
+14 Psi Cancri
+18 Puppis
+HR 3227
+19 Puppis
+h1 Puppis
+HR 3226
+HR 3212
+AH Velorum
+16 Zeta-1 Cancri (Tegmen)
+XHIP 40183
+55 Camelopardalis
+15 Cancri
+20 Puppis
+r Puppis
+16 Velorum (HR 3247)
+XHIP 40285
+XHIP 40321
+h2 Puppis (HR 3243)
+HR 3242
+XHIP 40357
+C Carinae (HR 3260)
+17 Beta Cancri (Altarf)
+29 Lyncis
+HR 3266
+HR 3280
+Alpha Chamaelontis
+q Puppis
+57 Camelopardalis (HR 3245)
+HR 3216
+Kappa-1 Volantis (HR 3301)
+Kappa-2 Volantis (HR 3302)
+18 chi Cancri
+HR 3264
+30 Lyncis
+19 Lambda Cancri
+Theta Chamaelontis
+HR 3293
+HR 3283
+HR 3279
+w Puppis
+HR 3281
+Eta Volantis
+Epsilon Carinae (Avior)
+B Velorum (HR 3294)
+XHIP 41074
+31 Lyncis (Alsciaukat)
+HR 3288
+HR 3300
+HR 3277
+XHIP 41191
+1 Hydrae
+HR 3308
+XHIP 41250
+HR 3315
+HR 3330
+HR 3305
+C Hydrae
+Beta Volantis
+HR 3326
+HR 3306
+2 Hydrae
+22 Phi-1 Cancri
+HR 3324
+27 Cancri
+23 Phi-2 Cancri (HR 3311)
+HR 3370
+F Velorum
+XHIP 41515
+A Velorum (HR 3358)
+HR 3356
+XHIP 41639
+HR 3363
+1 Omicron Ursae Majoris (Muscida)
+HR 3362
+30 Upsilon-1 Cancri
+XHIP 41817
+31 Theta Cancri
+XHIP 41861
+33 Eta Cancri
+HR 3389
+HR 3383
+2 A Ursae Majoris
+C Velorum (HR 3407)
+33 Lyncis
+e1 Carinae (HR 3415)
+e2 Carinae (HR 3414)
+3 Hydrae
+E Velorum (HR 3413)
+36 c Cancri
+HR 3432
+e Velorum
+4 Delta Hydrae
+Eta Pyxidis
+HR 3400
+5 Sigma Hydrae (Al Minliar al Shuja)
+Theta Volantis
+XHIP 42430
+3 Pi-1 Ursae Majoris (Muscida)
+XHIP 42459
+Zeta Pyxidis
+XHIP 42504
+6 a Hydrae
+Beta Pyxidis
+4 Pi-2 Ursae Majoris (Muscida)
+HR 3448
+Omicron Velorum
+XHIP 42540
+HR 3444
+d Carinae
+b Velorum
+34 Lyncis
+HR 3453
+n Velorum
+Eta Chamaelontis
+9 Hydrae
+XHIP 42679
+XHIP 42712
+XHIP 42715
+XHIP 42726
+45 A1 Cancri
+7 Eta Hydrae
+43 Gamma Cancri (Asellus Borealis)
+Alpha Pyxidis
+D Velorum (HR 3476)
+F Hydrae (HR 3459)
+d Velorum
+47 Delta Cancri (Asellus Australis)
+Delta Velorum
+49 b Cancri
+HR 3479
+HR 3543
+a Velorum
+HR 3478
+12 D Hydrae
+XHIP 43082
+48 Iota Cancri (HR 3475)
+f Carinae
+11 Epsilon Hydrae
+50 A2 Cancri
+HR 3486
+HR 3496
+13 Rho Hydrae
+14 Hydrae
+h Velorum (HR 3514)
+g Velorum
+HR 3512
+HR 3525
+Gamma Pyxidis
+f Velorum
+HR 3537
+15 Hydrae
+HR 3536
+35 Lyncis
+51 Sigma-1 Cancri
+HR 3539
+HR 3535
+5 b Ursae Majoris
+HR 3560
+XHIP 43671
+57 Cancri
+c Carinae
+Gliese 3519 (HR 3570)
+HR 3554
+16 Zeta Hydrae
+Delta Pyxidis
+58 Rho-2 Cancri
+60 Cancri
+H Velorum (HR 3574)
+HR 3546
+6 Ursae Majoris
+Zeta Octantis
+HR 3545
+59 Sigma-2 Cancri
+b1 Carinae
+62 Omicron-1 Cancri
+63 Omicron-2 Cancri
+65 Alpha Cancri (Acubens)
+Gliese 3523
+XHIP 44093
+9 Iota Ursae Majoris (Talitha)
+b2 Carinae
+64 Sigma-3 Cancri
+w Velorum
+10 Ursae Majoris
+HR 3604
+HR 3610
+HR 3600
+66 Cancri
+XHIP 44337
+HR 3596
+Alpha Volantis
+8 Rho Ursae Majoris
+69 Nu Cancri
+12 Kappa Ursae Majoris
+HR 3592
+c Velorum
+G Carinae (HR 3643)
+HR 3603
+E Carinae (HR 3642)
+18 Omega Hydrae
+HR 3612
+76 Kappa Cancri
+Lambda Velorum (Alsuhail)
+72 Tau Cancri
+Kappa Pyxidis
+11 Sigma-1 Ursae Majoris
+19 Hydrae
+15 f Ursae Majoris
+HR 3638
+HR 3636
+77 Xi Cancri
+20 Hydrae
+Epsilon Pyxidis
+13 Sigma-2 Ursae Majoris
+RS Cancri
+14 Tau Ursae Majoris
+a Carinae
+XHIP 45085
+i Carinae
+HR 3658
+HR 3656
+HR 3653
+XHIP 45189
+HR 3673
+Beta Carinae (Miaplacidus)
+HR 3670
+36 Lyncis
+HR 3672
+HR 3679
+16 c Ursae Majoris
+22 Theta Hydrae
+z Velorum
+82 Pi Cancri
+HR 3691
+l Velorum
+k Velorum A (Markeb)
+17 Ursae Majoris
+HR 3645
+18 e Ursae Majoris
+g Carinae
+HR 3692
+24 Hydrae
+23 Hydrae
+HR 3694
+Iota Carinae (Tureis)
+HR 3687
+XHIP 45571
+XHIP 45581
+HR 3721
+HR 3676
+K Velorum (HR 3703)
+XHIP 45661
+XHIP 45675
+38 Lyncis
+HR 3704
+26 Hydrae
+27 P Hydrae
+k Carinae
+40 Alpha Lyncis
+Theta Pyxidis
+XHIP 45915
+HR 3732
+HR 3726
+Kappa Velorum
+HR 3730
+Lambda Pyxidis
+Iota Chamaelontis
+1 Kappa Leonis (Al Minliar al Asad)
+28 Hydrae
+HR 3752
+I Velorum (HR 3753)
+HR 3777
+G Hydrae
+30 Alpha Hydrae (Alfard)
+HR 3750
+2 Omega Leonis
+3 Leonis
+HR 3783
+41 Lyncis (HR 3743)
+31 Tau-1 Hydrae
+HR 3763
+Epsilon Antliae
+HR 3770
+HR 3784
+XHIP 46620
+Psi Velorum
+Zeta-1 Antliae
+N Velorum
+23 h Ursae Majoris
+Zeta-2 Antliae (HR 3789)
+8 Leonis Minoris
+H Carinae (HR 3821)
+4 Lambda Leonis (Alterf)
+5 Xi Leonis
+6 h Leonis
+32 Tau-2 Hydrae
+XHIP 46811
+HR 3796
+25 Theta Ursae Majoris
+Gliese 355.2 (HR 3808)
+HR 3810
+XHIP 46914
+Zeta Chamaelontis
+L Velorum (HR 3819)
+10 Leonis Minoris
+h Carinae
+24 d Ursae Majoris
+33 A Hydrae
+26 Ursae Majoris
+22 Ursae Majoris
+HR 3809
+11 Leonis Minoris
+HR 3820
+M Velorum (HR 3836)
+HR 3830
+8 Leonis
+HR 3751
+HR 3833
+XHIP 47204
+10 Leonis
+y Velorum
+42 Lyncis
+2 Sextantis
+m Carinae
+35 Iota Hydrae
+38 Kappa Hydrae
+Gliese 9305
+HR 3864
+14 Omicron Leonis (Subra)
+I Hydrae (HR 3858)
+XHIP 47544
+HR 3868
+43 Lyncis
+Gliese 364.0
+HR 3838
+27 Ursae Majoris
+15 f Leonis
+O Velorum (HR 3875)
+16 Psi Leonis
+Theta Antliae
+l Carinae
+17 Epsilon Leonis (Ras Elased Australis)
+HR 3876
+Nu Chamaelontis (HR 3902)
+18 Leonis
+HR 3879
+HR 3886
+44 Lyncis
+Upsilon Carinae
+15 Leonis Minoris
+u Velorum
+HR 3904
+HR 3914
+29 Upsilon Ursae Majoris
+HR 3913
+HR 3910
+39 Upsilon-1 Hydrae
+m Velorum
+22 g Leonis
+30 Phi Ursae Majoris
+8 Gamma Sextantis
+24 Mu Leonis (Ras Elased Borealis)
+HR 3915
+XHIP 48527
+XHIP 48559
+HR 3925
+HR 3927
+HR 3923
+31 Ursae Majoris
+HR 3932
+Phi Velorum
+19 Leonis Minoris
+27 Nu Leonis
+Eta Antliae
+HR 3942
+HR 3939
+29 Pi Leonis
+Mu Chamaelontis (HR 3983)
+20 Leonis Minoris
+XHIP 49220
+HR 3965
+HR 3954
+40 Upsilon-2 Hydrae
+XHIP 49485
+HR 3977
+30 Eta Leonis (Al'dzhabkhakh)
+21 Leonis Minoris
+31 A Leonis
+15 Alpha Sextantis
+32 Alpha Leonis (Regulus)
+HR 3995
+Q Velorum (HR 3990)
+XHIP 49764
+HR 3991
+17 Sextantis
+41 Lambda Hydrae
+18 Sextantis
+HR 4009
+19 Sextantis
+XHIP 50070
+HR 4020
+M Carinae (HR 4025)
+Omega Carinae
+q Velorum
+HR 4036
+23 Leonis Minoris
+37 Leonis
+36 Zeta Leonis (Adhafera)
+q Carinae
+33 Lambda Ursae Majoris (Tania Borealis)
+39 Leonis
+22 Epsilon Sextantis
+32 Ursae Majoris
+XHIP 50456
+HR 4056
+XHIP 50493
+XHIP 50520
+XHIP 50555
+40 Leonis
+41 Gamma-1 Leonis (Algieba)
+HR 4066
+J Velorum
+XHIP 50685
+Gliese 9326
+r Velorum
+34 Mu Ursae Majoris (Tania Australis)
+L Carinae (HR 4089)
+27 Leonis Minoris
+25 Sextantis
+XHIP 50888
+XHIP 50933
+28 Leonis Minoris
+I Carinae (HR 4102)
+44 Leonis
+HR 4092
+30 Leonis Minoris
+42 Mu Hydrae
+HR 4107
+Alpha Antliae
+P Carinae
+s Carinae
+31 Beta Leonis Minoris
+HR 4120
+29 Delta Sextantis
+HR 4117
+Delta Antliae
+HR 4062
+32 Leonis Minoris
+30 Beta Sextantis
+K Carinae (HR 4138)
+36 Ursae Majoris (HR 4112)
+HR 4123
+HR 4142
+Gliese 392.1 (HR 4084)
+Y Velorum
+33 Leonis Minoris
+s Velorum (HR 4135)
+p Carinae
+46 Leonis
+47 Rho Leonis
+t Velorum
+HR 4132
+34 Leonis Minoris
+44 Hydrae
+48 Leonis
+49 Leonis
+HR 4126
+37 Ursae Majoris
+U Antliae
+Gamma Chamaelontis
+r Carinae
+t1 Carinae (HR 4164)
+Gliese 398.1
+HR 4162
+p Velorum
+HR 4169
+U Hydrae
+XHIP 52043
+Phi Hydrae
+37 Leonis Minoris
+t2 Carinae (HR 4177)
+HR 4165
+38 Leonis Minoris
+x Velorum
+XHIP 52221
+HR 4176
+HR 4206
+38 Ursae Majoris
+HR 4196
+HR 4198
+HR 4194
+Theta Carinae
+40 Leonis Minoris
+HR 4181
+35 Sextantis
+41 Leonis Minoris
+w Carinae
+XHIP 52469
+39 Ursae Majoris
+HR 4204
+HR 4205
+XHIP 52577
+Delta-1 Chamaelontis
+Delta-2 Chamaelontis (HR 4234)
+42 Leonis Minoris
+HR 4219
+51 m Leonis
+52 k Leonis
+HR 4220
+Mu Velorum
+HR 4222
+b1 Hydrae (HR 4214)
+HR 4221
+HR 4225
+53 l Leonis
+XHIP 52922
+Nu Hydrae
+HR 4238
+41 Sextantis
+43 Ursae Majoris
+42 Ursae Majoris
+XHIP 53154
+46 Leonis Minoris (Praecipua)
+b3 Hydrae (HR 4251)
+u Carinae
+44 Ursae Majoris
+XHIP 53272
+p1 Leonis
+45 Omega Ursae Majoris
+HR 4255
+47 Leonis Minoris (HR 4256)
+54 Leonis
+46 Ursae Majoris
+56 Leonis
+Iota Antliae
+XHIP 53530
+XHIP 53699
+47 Ursae Majoris
+HR 4284
+7 Alpha Crateris (Alkes)
+HR 4292
+i Velorum
+HR 4289
+HR 4280
+58 d Leonis
+59 c Leonis
+49 Ursae Majoris
+61 p2 Leonis
+48 Beta Ursae Majoris (Merak)
+60 b Leonis
+XHIP 54029
+50 Alpha Ursae Majoris (Dubhe)
+HR 4311
+HR 4313
+63 chi Leonis
+chi Hydrae
+chi Hydrae
+z Carinae
+HR 4329
+65 p4 Leonis
+XHIP 54360
+z2 Carinae
+x Carinae
+HR 4334
+67 Leonis
+XHIP 54522
+HR 4336
+52 Psi Ursae Majoris
+HR 4339
+11 Beta Crateris
+HR 4350
+y Carinae
+HR 4355
+HR 4354
+HR 4361
+HR 4360
+69 p5 Leonis
+HR 4358
+68 Delta Leonis (Zosma)
+70 Theta Leonis (Chertan)
+72 Leonis
+73 n Leonis
+74 Phi Leonis
+75 Leonis
+54 Nu Ursae Majoris (Alula Borealis)
+55 Ursae Majoris
+12 Delta Crateris (Labr)
+Pi Centauri
+77 Sigma Leonis
+56 Ursae Majoris
+HR 4398
+HR 4396
+HR 4401
+13 Lambda Crateris
+78 Iota Leonis
+79 Leonis
+HR 4406
+14 Epsilon Crateris
+15 Gamma Crateris
+HR 4404
+HR 4409
+HR 4411
+81 Leonis
+Gliese 3663
+HR 4407
+HR 4415
+XHIP 55849
+84 Tau Leonis
+HR 4423
+57 Ursae Majoris
+XHIP 56035
+HR 4428
+85 Leonis
+87 e Leonis
+86 Leonis
+1 Lambda Draconis (Gianfar)
+Omicron-1 Centauri
+Omicron-2 Centauri
+17 Crateris
+XHIP 56290
+HR 4447
+HR 4449
+Xi Hydrae
+XHIP 56391
+89 Leonis
+90 Leonis
+A Centauri (HR 4460)
+HR 4462
+HR 4457
+C1 Centauri
+Lambda Centauri
+C2 Centauri (HR 4466)
+2 Draconis
+XHIP 56601
+HR 4472
+XHIP 56620
+21 Theta Crateris
+91 Upsilon Leonis
+XHIP 56656
+Pi Chamaelontis (HR 4479)
+C3 Centauri (HR 4476)
+HR 4487
+59 Ursae Majoris
+1 Omega Virginis
+24 Iota Crateris
+XHIP 56862
+Omicron Hydrae
+92 Leonis
+HR 4499
+61 Ursae Majoris
+HR 4502
+62 Ursae Majoris
+HR 4503
+3 Draconis
+XHIP 57175
+27 Zeta Crateris
+2 Xi Virginis
+Lambda Muscae
+HR 4519
+3 Nu Virginis
+63 chi Ursae Majoris (Alkaphrah)
+HR 4522
+Gliese 442 A
+HR 4521
+XHIP 57512
+4 A1 Virginis
+93 Leonis
+Mu Muscae
+XHIP 57606
+XHIP 57613
+94 Beta Leonis (Denebola)
+j Centauri
+HR 4536
+HR 4538
+HR 4541
+5 Beta Virginis (Zavijah)
+HR 4544
+B Centauri (HR 4546)
+XHIP 57841
+XHIP 57851
+HR 4551
+Beta Hydrae
+64 Gamma Ursae Majoris (Phad)
+HR 4558
+HR 4563
+6 A2 Virginis
+95 o Leonis
+66 Ursae Majoris
+30 Eta Crateris
+HR 4573
+HR 4576
+HR 4578
+Epsilon Chamaelontis
+7 b Virginis
+Gliese 454 (Lalande 22585)
+31 Crateris
+8 Pi Virginis
+HR 4593
+67 Ursae Majoris
+HR 4597
+Theta-1 Crucis (HR 4599)
+Gliese 3701
+2 Comae Berenices
+Theta-2 Crucis
+HR 4604
+Kappa Chamaelontis
+9 Omicron Virginis
+XHIP 58952
+Eta Crucis
+HR 4617
+HR 4618
+E Centauri (HR 4620)
+Delta Centauri
+1 Alpha Corvi (Alchita)
+XHIP 59229
+HR 4625
+11 Virginis
+2 Epsilon Corvi (Minkar)
+3 Corvi
+Rho Centauri
+4 Comae Berenices
+5 Comae Berenices
+XHIP 59504
+HR 4644
+HR 4648
+12 Virginis
+D Centauri
+HR 4655
+HR 4659
+Delta Crucis
+69 Delta Ursae Majoris (Megrez)
+4 Gamma Corvi (Gienah)
+6 Comae Berenices
+2 Canum Venaticorum
+7 Comae Berenices
+HR 4668
+HR 4672
+HR 4673
+Epsilon Muscae
+Beta Chamaelontis
+Zeta Crucis (HR 4679)
+13 Virginis (HR 4681)
+HR 4687
+F Centauri (HR 4682)
+3 Canum Venaticorum (HR 4690)
+15 Eta Virginis (Zaniah)
+HR 4693
+16 c Virginis (HR 4695)
+5 Zeta Corvi (HR 4696)
+11 Comae Berenices (HR 4697)
+70 Ursae Majoris (HR 4701)
+HR 4699
+Epsilon Crucis (HR 4700)
+Zeta-2 Muscae (HR 4703)
+Zeta-1 Muscae (HR 4704)
+12 Comae Berenices (HR 4707)
+HR 4706
+6 Corvi (HR 4711)
+x1 Centauri (HR 4712)
+HR 4714
+5 Canum Venaticorum (HR 4716)
+13 Comae Berenices (HR 4717)
+71 Ursae Majoris (HR 4726)
+HR 4722
+x2 Centauri (HR 4724)
+6 Canum Venaticorum (HR 4728)
+14 Comae Berenices (HR 4733)
+G Centauri (HR 4732)
+Alpha-1 Crucis (Acrux)
+HR 4735
+15 Gamma Comae Berenices (HR 4737)
+16 Comae Berenices (HR 4738)
+HR 4739
+73 Ursae Majoris (HR 4745)
+Sigma Centauri (HR 4743)
+u Centauri (HR 4748)
+17 Comae Berenices (HR 4752)
+18 Comae Berenices (HR 4753)
+20 Comae Berenices (HR 4756)
+7 Delta Corvi (Algorab)
+HR 4754
+74 Ursae Majoris (HR 4760)
+4 Draconis (HR 4765)
+HR 4759
+21 Comae Berenices (HR 4766)
+Gamma Crucis (Gacrux)
+35 Crucis (HR 4768)
+8 Eta Corvi (HR 4775)
+Gamma Muscae (HR 4773)
+HR 4776
+5 Kappa Draconis (HR 4787)
+HR 4779
+HR 4783
+8 Beta Canum Venaticorum (Chara)
+21 q Virginis (HR 4781)
+9 Beta Corvi (Kraz)
+HR 4788
+6 Draconis (HR 4795)
+23 Comae Berenices (HR 4789)
+BO Muscae
+24 Comae Berenices (HR 4792)
+HR 4794
+HR 4796
+25 f Virginis (HR 4799)
+25 Comae Berenices (HR 4801)
+Alpha Muscae (HR 4798)
+HR 4803
+Tau Centauri (HR 4802)
+HR 4807
+26 Comae Berenices (HR 4815)
+26 chi Virginis (HR 4813)
+l Centauri (HR 4817)
+XHIP 61910
+HR 4818
+Gamma Centauri (HR 4819)
+29 Gamma Virginis (Porrima)
+30 Rho Virginis (HR 4828)
+39 Crucis (HR 4823)
+31 d1 Virginis (HR 4829)
+w Centauri (HR 4831)
+HR 4830
+HR 4834
+HR 4839
+Y Canum Venaticorum (HR 4846)
+32 d2 Virginis (HR 4847)
+Iota Crucis (HR 4842)
+Beta Muscae (HR 4844)
+33 Virginis (HR 4849)
+HR 4848
+27 Comae Berenices (HR 4851)
+HR 4859
+7 Draconis (HR 4863)
+Beta Crucis (Becrux)
+HR 4860
+Gliese 9417 (HR 4867)
+29 Comae Berenices (HR 4865)
+HR 4892
+HR 4893
+30 Comae Berenices (HR 4869)
+HR 4862
+HR 4875
+p Centauri (HR 4874)
+HR 4872
+HR 4876
+31 Comae Berenices (HR 4883)
+HR 4879
+e Centauri (HR 4888)
+35 Comae Berenices (HR 4894)
+HR 4887
+n Centauri (HR 4889)
+Kappa Crucis (HR 4890)
+77 Epsilon Ursae Majoris (Alioth)
+40 Psi Virginis (HR 4902)
+Mu-1 Crucis (HR 4898)
+Mu-2 Crucis (HR 4899)
+Lambda Crucis (HR 4897)
+TU Canum Venaticorum (HR 4909)
+Iota Octantis (HR 4870)
+HR 4906
+8 Draconis (HR 4916)
+43 Delta Virginis (Auva)
+HR 4908
+12 Alpha-2 Canum Venaticorum (Cor Caroli)
+HR 4917
+H Centauri (HR 4913)
+36 Comae Berenices (HR 4920)
+44 k Virginis (HR 4921)
+9 Draconis (HR 4928)
+37 Comae Berenices (HR 4924)
+78 Ursae Majoris (HR 4931)
+47 Epsilon Virginis (Vindemiatrix)
+Delta Muscae (HR 4923)
+HR 4930
+Xi-1 Centauri (HR 4933)
+HR 4935
+14 Canum Venaticorum (HR 4943)
+HR 4945
+f Centauri (HR 4940)
+40 Comae Berenices (HR 4949)
+HR 4941
+HR 4947
+Xi-2 Centauri (HR 4942)
+41 Comae Berenices (HR 4954)
+HR 4951
+49 Virginis (HR 4955)
+Theta Muscae (HR 4952)
+g Virginis (HR 4957)
+45 Psi Hydrae (HR 4958)
+HR 4960
+51 Theta Virginis (HR 4963)
+42 Alpha Comae Berenices (Diadem)
+HR 4970
+HR 4973
+43 Beta Comae Berenices (HR 4983)
+53 Virginis (HR 4981)
+Gliese 501.2 (HR 4979)
+HR 4975
+HR 4986
+HR 4977
+HR 4985
+HR 4997
+55 Virginis (HR 4995)
+Gliese 503 (HR 4989)
+HR 4998
+Eta Muscae (HR 4993)
+19 Canum Venaticorum (HR 5004)
+57 Virginis (HR 5001)
+59 e Virginis (HR 5011)
+r Centauri (HR 5006)
+HR 5002
+HR 5008
+HR 5013
+20 Canum Venaticorum (HR 5017)
+60 Sigma Virginis (HR 5015)
+21 Canum Venaticorum (HR 5023)
+61 Virginis (HR 5019)
+HR 5022
+46 Gamma Hydrae (HR 5020)
+23 Canum Venaticorum (HR 5032)
+Iota Centauri (HR 5028)
+HR 5026
+HR 5029
+HR 5037
+64 Virginis (HR 5040)
+HR 5036
+J Centauri (HR 5035)
+63 Virginis (HR 5044)
+79 Zeta Ursae Majoris (Mizar)
+m Centauri (HR 5041)
+66 Virginis (HR 5050)
+HR 5057
+Iota-1 Muscae (HR 5042)
+67 Alpha Virginis (Spica)
+80 g Ursae Majoris (Alcor)
+HR 5048
+HR 5049
+HR 5058
+HR 5073
+68 i Virginis (HR 5064)
+HR 5060
+HR 5091
+69 Virginis (HR 5068)
+70 Virginis (HR 5072)
+HR 5085
+71 Virginis (HR 5081)
+K Centauri (HR 5071)
+R Hydrae (HR 5080)
+d Centauri (HR 5089)
+74 l Virginis (HR 5095)
+HR 5097
+75 Virginis (HR 5099)
+76 h Virginis (HR 5100)
+81 Ursae Majoris (HR 5109)
+78 o Virginis (HR 5105)
+24 Canum Venaticorum (HR 5112)
+y Virginis (HR 5106)
+79 Zeta Virginis (Heze)
+HR 5110
+80 Virginis (HR 5111)
+HR 5120
+HR 5123
+HR 5139
+HR 5113
+HR 5121
+25 Canum Venaticorum (HR 5127)
+HR 5128
+82 Ursae Majoris (HR 5142)
+Lalande 25224 (HR 5138)
+HR 5136
+Epsilon Centauri (HR 5132)
+HR 5134
+HR 5130
+1 Bootis (HR 5144)
+83 Ursae Majoris (HR 5154)
+Kappa Octantis (HR 5084)
+2 Bootis (HR 5149)
+HR 5162
+82 m Virginis (HR 5150)
+Q Centauri (HR 5141)
+HR 5140
+HR 5151
+84 Virginis (HR 5159)
+HR 5157
+83 Virginis (HR 5165)
+HR 5167
+1 i Centauri (HR 5168)
+86 Virginis (HR 5173)
+HR 5179
+84 Ursae Majoris (HR 5187)
+M Centauri (HR 5172)
+z Centauri (HR 5174)
+HR 5186
+4 Tau Bootis (HR 5185)
+87 Virginis (HR 5181)
+HR 5175
+85 Eta Ursae Majoris (Alkaid)
+HR 5176
+HR 5195
+2 g Centauri (HR 5192)
+5 Upsilon Bootis (HR 5200)
+Nu Centauri (HR 5190)
+Mu Centauri (HR 5193)
+6 e Bootis (HR 5201)
+89 Virginis (HR 5196)
+HR 5215
+10 i Draconis (HR 5226)
+HR 5206
+HR 5194
+HR 5219
+3 k Centauri (HR 5210)
+N Centauri (HR 5207)
+HR 5229
+4 h Centauri (HR 5221)
+7 Bootis (HR 5225)
+y Centauri (HR 5222)
+HR 5217
+86 Ursae Majoris (HR 5238)
+HR 5223
+8 Eta Bootis (Mufrid)
+90 p Virginis (HR 5232)
+HR 5218
+HR 5230
+Zeta Centauri (HR 5231)
+HR 5239
+92 Virginis (HR 5244)
+9 Bootis (HR 5247)
+HR 5241
+Phi Centauri (HR 5248)
+47 Hydrae (HR 5250)
+10 Bootis (HR 5255)
+Upsilon-1 Centauri (HR 5249)
+48 Hydrae (HR 5257)
+93 Tau Virginis (HR 5264)
+Upsilon-2 Centauri (HR 5260)
+HR 5265
+Beta Centauri (Agena)
+11 Alpha Draconis (Thuban)
+Theta Apodis (HR 5261)
+chi Centauri (HR 5285)
+49 Pi Hydrae (HR 5287)
+5 Theta Centauri (Menkent)
+95 Virginis (HR 5290)
+HR 5299
+13 Bootis (HR 5300)
+4 Ursae Minoris (HR 5321)
+HR 5296
+HR 5297
+12 d Bootis (HR 5304)
+HR 5301
+HR 5334
+HR 5313
+50 Hydrae (HR 5312)
+98 Kappa Virginis (HR 5315)
+HR 5308
+17 Kappa-2 Bootis (Asellus Tertius)
+HR 5317
+14 Bootis (HR 5323)
+HR 5318
+15 Bootis (HR 5330)
+HR 5316
+HR 5332
+16 Alpha Bootis (Arcturus)
+99 Iota Virginis (Syrma)
+21 Iota Bootis (Asellus Secondus)
+19 Lambda Bootis (HR 5351)
+HR 5320
+101 Virginis (HR 5352)
+A Bootis (HR 5361)
+Eta Apodis (HR 5303)
+CS Virginis (HR 5355)
+Gliese 9476 A (HR 5356)
+100 Lambda Virginis (Kkhambaliya)
+18 Bootis (HR 5365)
+HR 5357
+Iota Lupi (HR 5354)
+102 Upsilon Virginis (HR 5366)
+20 Bootis (HR 5370)
+HR 5349
+HR 5362
+v Centauri (HR 5358)
+Psi Centauri (HR 5367)
+HR 5364
+HR 5376
+Epsilon Apodis (HR 5336)
+HR 5371
+a Centauri (HR 5378)
+51 k Hydrae (HR 5381)
+HR 5386
+HR 5388
+HR 5392
+HR 5390
+HR 5379
+23 Theta Bootis (Asellus Primus)
+Tau-1 Lupi (HR 5395)
+Tau-2 Lupi (HR 5396)
+22 f Bootis (HR 5405)
+Delta Octantis (HR 5339)
+HR 5391
+HR 5401
+5 Ursae Minoris (HR 5430)
+52 l Hydrae (HR 5407)
+105 Phi Virginis (HR 5409)
+24 g Bootis (HR 5420)
+106 Virginis (HR 5410)
+HR 5412
+HR 5413
+HR 5408
+25 Rho Bootis (HR 5429)
+27 Gamma Bootis (Seginus)
+HR 5442
+26 Bootis (HR 5434)
+Sigma Lupi (HR 5425)
+HR 5426
+HR 5452
+28 Sigma Bootis (HR 5447)
+Eta Centauri (HR 5440)
+HR 5439
+HR 5444
+HR 5449
+a Lupi (HR 5450)
+XHIP 71502
+Rho Lupi (HR 5453)
+HR 5464
+HR 5467
+33 Bootis (HR 5468)
+Alpha Centauri (Proksima Kentavra)
+Alpha Centauri (Rigel Kentaurus)
+HR 5473
+29 Pi-1 Bootis (HR 5475)
+HR 5466
+30 Zeta Bootis
+31 Bootis (HR 5480)
+32 Bootis (HR 5481)
+Alpha Lupi (Men)
+b Centauri (HR 5471)
+Alpha Circini (HR 5463)
+107 Mu Virginis (Rijl al Awwa)
+4 Librae (HR 5484)
+34 W Bootis (HR 5490)
+c1 Centauri (HR 5485)
+HR 5493
+c2 Centauri (HR 5489)
+36 Epsilon Bootis (Izar)
+35 Omicron Bootis (HR 5502)
+HR 5482
+108 Virginis (HR 5501)
+54 m Hydrae (HR 5497)
+HR 5512
+HR 5499
+109 Virginis (HR 5511)
+HR 5494
+b Lupi (HR 5495)
+55 Hydrae (HR 5514)
+56 Hydrae (HR 5516)
+Alpha Apodis (HR 5470)
+57 Hydrae (HR 5517)
+HR 5519
+HR 5500
+38 h Bootis (Merga)
+HR 5521
+7 Mu Librae (HR 5523)
+39 Bootis (HR 5538)
+HR 5532
+Gliese 564 (Lalande 27055)
+58 E Hydrae (HR 5526)
+Gliese 3876 (HR 5596)
+HR 5541
+8 Alpha-1 Librae (HR 5530)
+7 Beta Ursae Minoris (Kocab)
+9 Alpha-2 Librae (Zuben Elgenubi)
+11 Librae (HR 5535)
+37 Xi Bootis (HR 5544)
+HR 5552
+Omicron Lupi (HR 5528)
+HR 5543
+HR 5520
+12 Librae (HR 5548)
+13 Xi-1 Librae (HR 5554)
+HR 5549
+HR 5546
+HR 5558
+HR 5567
+c Lupi (HR 5556)
+Gliese 3880 (HR 5581)
+HR 5559
+Theta Circini (HR 5551)
+15 Xi-2 Librae (HR 5564)
+16 Librae (HR 5570)
+HR 5575
+Gliese 570 A (Lalande 27173)
+1 M Serpentis (HR 5573)
+RR Ursae Minoris (HR 5589)
+R Apodis (HR 5540)
+Beta Lupi (HR 5571)
+59 Hydrae (HR 5577)
+Kappa Centauri (HR 5576)
+HR 5584
+40 Bootis (HR 5588)
+19 Delta Librae (Zuben Elakribi)
+HR 5590
+HR 5608
+2 Serpentis (HR 5594)
+Pi-1 Octantis (HR 5525)
+42 Beta Bootis (Nekkar)
+60 Hydrae (HR 5591)
+41 Omega Bootis (HR 5600)
+110 Virginis (HR 5601)
+HR 5595
+HR 5609
+44 i Bootis (HR 5618)
+20 Sigma Librae (Brachium)
+43 Psi Bootis (HR 5616)
+Pi-2 Octantis (HR 5545)
+Eta Circini (HR 5593)
+Pi Lupi
+HR 5607
+47 k Bootis (HR 5627)
+HR 5635
+HR 5619
+21 Nu Librae (Zuben Hakrabi)
+45 c Bootis (HR 5634)
+HR 5617
+HR 5624
+46 b Bootis (HR 5638)
+HR 5640
+HR 5625
+Lambda Lupi (HR 5626)
+HR 5621
+HR 5641
+Omega Octantis (HR 5557)
+HR 5637
+Kappa-1 Lupi (HR 5646)
+Kappa-2 Lupi (HR 5647)
+HR 5654
+24 Iota Librae (HR 5652)
+Zeta Lupi (HR 5649)
+e Lupi (HR 5651)
+HR 5644
+48 chi Bootis (HR 5676)
+1 i Lupi (HR 5660)
+Gliese 580.2 (HR 5691)
+3 Serpentis (HR 5675)
+49 Delta Bootis (Princeps)
+4 Serpentis (HR 5679)
+HR 5667
+HR 5678
+HR 5661
+Delta Circini (HR 5664)
+27 Beta Librae (Zuben Elschemali)
+11 Ursae Minoris (Pherkad Minor)
+Beta Circini (HR 5670)
+Epsilon Circini (HR 5666)
+2 f Lupi (HR 5686)
+HR 5692
+Mu Lupi (HR 5683)
+HR 5680
+Gamma Trianguli Australis (HR 5671)
+HR 5687
+5 Serpentis (HR 5694)
+HR 5715
+1 Omicron Coronae Borealis (HR 5709)
+13 Gamma Ursae Minoris (Pherkad)
+6 Serpentis (HR 5710)
+HR 5707
+Delta Lupi (HR 5695)
+Phi-1 Lupi (HR 5705)
+50 Bootis (HR 5718)
+Nu-2 Lupi (HR 5699)
+Nu-1 Lupi (HR 5698)
+HR 5731
+HR 5726
+HR 5737
+Epsilon Lupi (HR 5708)
+Phi-2 Lupi (HR 5712)
+HR 5700
+2 Eta Coronae Borealis
+Gamma Circini (HR 5704)
+HR 5720
+31 Epsilon Librae (HR 5723)
+51 Mu-1 Bootis (Alkalurops)
+Upsilon Lupi (HR 5719)
+12 Iota Draconis (Ed Asich)
+k Lupi (HR 5724)
+9 Tau-1 Serpentis (HR 5739)
+HR 5741
+HR 5736
+HR 5725
+3 Beta Coronae Borealis (Nusakan)
+32 Librae (HR 5743)
+10 Serpentis (HR 5746)
+HR 5742
+34 Librae (HR 5750)
+52 Nu-1 Bootis (HR 5763)
+HR 5785
+15 Theta Ursae Minoris (HR 5826)
+Kappa-1 Apodis (HR 5730)
+53 Nu-2 Bootis (HR 5774)
+HR 5762
+35 Zeta Librae (HR 5764)
+4 Theta Coronae Borealis (HR 5778)
+11 A1 Serpentis (HR 5772)
+HR 5767
+37 Librae (HR 5777)
+HR 5780
+36 Librae (HR 5775)
+5 Alpha Coronae Borealis (Alphekka)
+13 Delta Serpentis
+Gamma Lupi (HR 5776)
+6 Mu Coronae Borealis (HR 5800)
+38 Gamma Librae (Zuben Elakrab)
+d Lupi (HR 5781)
+HR 5818
+HR 5784
+16 Serpentis (HR 5802)
+Epsilon Trianguli Australis (HR 5771)
+39 Upsilon Librae (HR 5794)
+HR 5844
+HR 5806
+54 Phi Bootis (Ceginus)
+Omega Lupi (HR 5797)
+HR 5830
+HR 5810
+HR 5835
+40 Tau Librae (HR 5812)
+HR 5798
+41 Librae (HR 5814)
+7 Zeta-1 Coronae Borealis (HR 5834)
+3 Psi-1 Lupi (HR 5820)
+42 Librae (HR 5824)
+Kappa-2 Apodis (HR 5782)
+g Lupi (HR 5825)
+21 Iota Serpentis (HR 5842)
+20 chi Serpentis (HR 5843)
+HR 5786
+22 Tau-7 Serpentis (HR 5845)
+43 Kappa Librae (HR 5838)
+h Lupi (HR 5837)
+4 Psi-2 Lupi (HR 5839)
+8 Gamma Coronae Borealis (HR 5849)
+HR 5857
+Rho Octantis (HR 5729)
+9 Pi Coronae Borealis (HR 5855)
+23 Psi Serpentis (Wolf 573)
+16 Zeta Ursae Minoris (HR 5903)
+44 Eta Librae (HR 5848)
+24 Alpha Serpentis (Unukalhai)
+HR 5846
+HR 5859
+25 A2 Serpentis (HR 5863)
+28 Beta Serpentis (HR 5867)
+27 Lambda Serpentis (HR 5868)
+HR 5886
+HR 5860
+31 Upsilon Serpentis (HR 5870)
+HR 5887
+XHIP 77390
+35 Kappa Serpentis (HR 5879)
+30 Serpentis (HR 5875)
+10 Delta Coronae Borealis (HR 5889)
+32 Mu Serpentis (HR 5881)
+HR 5871
+HR 5869
+34 Omega Serpentis (HR 5888)
+37 Epsilon Serpentis (HR 5892)
+5 chi Lupi (HR 5883)
+1 b Scorpii (HR 5885)
+HR 5873
+11 Kappa Coronae Borealis (HR 5901)
+36 b Serpentis (HR 5895)
+38 Rho Serpentis (HR 5899)
+HR 5922
+1 chi Herculis (HR 5914)
+45 Lambda Librae (HR 5902)
+2 A Scorpii (HR 5904)
+46 Theta Librae (HR 5908)
+HR 5906
+HR 5907
+HR 5924
+2 Herculis (HR 5932)
+3 Scorpii (HR 5912)
+47 Librae (HR 5915)
+Beta Trianguli Australis (HR 5897)
+Kappa Trianguli Australis (HR 5891)
+4 Scorpii (HR 5917)
+4 Herculis (HR 5938)
+HR 5900
+12 Lambda Coronae Borealis (HR 5936)
+HR 5905
+41 Gamma Serpentis (HR 5933)
+5 Rho Scorpii (HR 5928)
+Xi-1 Lupi (HR 5925)
+Xi-2 Lupi (HR 5926)
+Phi Serpentis (HR 5940)
+HR 5929
+13 Epsilon Coronae Borealis (HR 5947)
+HR 5934
+HR 5960
+48 Librae (HR 5941)
+HR 5942
+6 Pi Scorpii (HR 5944)
+HR 5957
+HR 5920
+HR 5943
+Eta Lupi (HR 5948)
+49 Librae (HR 5954)
+7 Delta Scorpii (Dschubba)
+50 Librae (HR 5959)
+HR 5963
+15 Rho Coronae Borealis (HR 5968)
+5 r Herculis (HR 5966)
+14 Iota Coronae Borealis (HR 5971)
+13 Theta Draconis (HR 5986)
+44 Pi Serpentis (HR 5972)
+X Herculis
+6 Upsilon Herculis (HR 5982)
+Eta Normae (HR 5962)
+HR 5983
+HR 5969
+HR 5967
+18 Ursae Minoris (HR 6034)
+Iota-1 Normae (HR 5961)
+8 Beta-1 Scorpii (Graffias)
+8 Beta-2 Scorpii (HR 5985)
+HR 5955
+HR 5988
+HR 6025
+Delta Normae (HR 5980)
+Theta Lupi (HR 5987)
+9 Omega-1 Scorpii (HR 5993)
+HR 5991
+10 Omega-2 Scorpii (HR 5997)
+11 Scorpii (HR 6002)
+45 Serpentis (HR 6004)
+7 Kappa Herculis (Marsik)
+HR 6001
+47 Serpentis (HR 6010)
+HR 6003
+11 Phi Herculis (HR 6023)
+16 Tau Coronae Borealis (HR 6018)
+Iota-2 Normae (HR 5994)
+HR 6016
+HR 6007
+19 Ursae Minoris (HR 6079)
+HR 6017
+HR 6015
+10 Herculis (HR 6039)
+HR 6046
+14 Nu Scorpii (Jabbah)
+15 Psi Scorpii (HR 6031)
+16 Scorpii (HR 6033)
+12 c1 Scorpii (HR 6029)
+13 c2 Scorpii (HR 6028)
+9 Herculis (HR 6047)
+Zeta Normae (HR 6019)
+Kappa Normae (HR 6024)
+17 chi Scorpii (HR 6048)
+1 Delta Ophiuchi (Yed Prior)
+17 Sigma Coronae Borealis (HR 6063)
+Theta Normae (HR 6045)
+Delta Trianguli Australis (HR 6030)
+16 Herculis (HR 6065)
+18 Scorpii (HR 6060)
+HR 6040
+HR 6055
+18 Upsilon Coronae Borealis (HR 6074)
+Gamma-1 Normae (HR 6058)
+HR 6086
+21 Eta Ursae Minoris (HR 6116)
+d Scorpii (HR 6070)
+2 Epsilon Ophiuchi (Yed Posterior)
+Lambda Normae (HR 6071)
+HR 6077
+22 Tau Herculis (HR 6092)
+Gamma-2 Normae (HR 6072)
+Gliese 9557 (HR 6091)
+Delta-1 Apodis (HR 6020)
+HR 6073
+Delta-2 Apodis (HR 6021)
+19 Omicron Scorpii (HR 6081)
+20 Sigma Scorpii (Alniyat)
+HR 6126
+20 Gamma Herculis (HR 6095)
+50 Sigma Serpentis (HR 6093)
+19 Xi Coronae Borealis (HR 6103)
+20 Nu-1 Coronae Borealis (HR 6107)
+HR 6083
+21 Nu-2 Coronae Borealis (HR 6108)
+HR 6130
+14 Eta Draconis (HR 6132)
+Gliese 620.1 A (HR 6094)
+4 Psi Ophiuchi (HR 6104)
+21 o Herculis (HR 6111)
+HR 6127
+HR 6100
+XHIP 80399
+25 Herculis (HR 6123)
+24 Omega Herculis (Kajam)
+5 Rho Ophiuchi
+HR 6173
+7 chi Ophiuchi (HR 6118)
+Epsilon Normae (HR 6115)
+HR 6128
+3 Upsilon Ophiuchi (HR 6129)
+Iota Trianguli Australis (HR 6109)
+15 A Draconis (HR 6161)
+HR 6122
+HR 6114
+Zeta Trianguli Australis (HR 6098)
+HR 6136
+30 g Herculis (HR 6146)
+21 Alpha Scorpii (Antares)
+HR 6131
+HR 6140
+22 i Scorpii (HR 6141)
+27 Beta Herculis (Kornephoros)
+s Herculis (HR 6152)
+HR 6125
+10 Lambda Ophiuchi (Marfic)
+8 Phi Ophiuchi (HR 6147)
+HR 6154
+N Scorpii (HR 6143)
+HR 6142
+HR 6162
+9 Omega Ophiuchi (HR 6153)
+HR 6170
+28 n Herculis (HR 6158)
+29 h Herculis (HR 6159)
+Gamma Apodis (HR 6102)
+Mu Normae (HR 6155)
+35 Sigma Herculis (HR 6168)
+HR 6135
+Theta Trianguli Australis (HR 6151)
+23 Tau Scorpii (Alniyat)
+HR 6183
+16 Draconis (HR 6184)
+17 Draconis
+12 Ophiuchi (HR 6171)
+H Scorpii (HR 6166)
+HR 6164
+13 Zeta Ophiuchi (Khan)
+HR 6199
+HR 6174
+42 Herculis (HR 6200)
+HR 6178
+37 Herculis (HR 6195)
+18 g Draconis (HR 6223)
+40 Zeta Herculis (HR 6212)
+HR 6187
+Eta-1 Trianguli Australis (HR 6172)
+24 Scorpii (HR 6196)
+HR 6188
+14 Ophiuchi (HR 6205)
+HR 6192
+HR 6202
+44 Eta Herculis (HR 6220)
+Beta Apodis (HR 6163)
+HR 6214
+Gliese 9578 (HR 6237)
+HR 6227
+43 i Herculis (HR 6228)
+22 Epsilon Ursae Minoris (HR 6322)
+HR 6215
+HR 6204
+HR 6221
+HR 6219
+HR 6242
+45 l Herculis (HR 6234)
+Alpha Trianguli Australis (Atria)
+52 Herculis (HR 6254)
+HR 6246
+Eta Arae (HR 6229)
+20 Ophiuchi (HR 6243)
+26 Epsilon Scorpii (HR 6241)
+47 k Herculis (HR 6250)
+50 Herculis (HR 6258)
+21 Ophiuchi (HR 6255)
+HR 6245
+51 Herculis (HR 6270)
+Mu-1 Scorpii (HR 6247)
+Mu-2 Scorpii (HR 6252)
+53 Herculis (HR 6279)
+HR 6257
+Zeta-1 Scorpii (Grafias)
+25 Iota Ophiuchi (HR 6281)
+HR 6260
+HR 6266
+Zeta-2 Scorpii (Grafias)
+23 Ophiuchi (HR 6280)
+HR 6287
+HR 6272
+54 Herculis (HR 6293)
+19 h Draconis (HR 6315)
+HR 6275
+24 Ophiuchi (HR 6291)
+27 Scorpii (HR 6288)
+27 Kappa Ophiuchi (HR 6299)
+HR 6289
+Zeta Arae (HR 6285)
+HR 6276
+Epsilon-1 Arae (HR 6295)
+HR 6308
+HR 6297
+26 Ophiuchi (HR 6310)
+58 Epsilon Herculis (HR 6324)
+HR 6325
+30 Ophiuchi (HR 6318)
+59 d Herculis (HR 6332)
+HR 6316
+Lalande 31041 (HR 6333)
+32 Ophiuchi (HR 6337)
+Epsilon-2 Arae (HR 6314)
+HR 6341
+HR 6320
+k Scorpii (HR 6334)
+21 Mu Draconis (Arrakis)
+60 Herculis (HR 6355)
+HR 6353
+HR 6364
+c Herculis (HR 6377)
+22 Zeta Draconis (Aldhibah)
+HR 6388
+Lalande 31188 (HR 6375)
+35 Eta Ophiuchi (Sabik)
+HR 6371
+HR 6374
+Eta Scorpii (HR 6380)
+HR 6381
+37 Ophiuchi (HR 6393)
+HR 6421
+64 Alpha-1 Herculis (Rasalgethi)
+65 Delta Herculis (Sarin)
+67 Pi Herculis (HR 6418)
+HR 6397
+36 A Ophiuchi
+38 U Ophiuchi (HR 6414)
+41 Ophiuchi (HR 6415)
+HR 6409
+68 u Herculis (HR 6431)
+69 e Herculis (HR 6436)
+39 Omicron Ophiuchi (HR 6424)
+e Ophiuchi (HR 6433)
+HR 6420
+HR 6443
+Gliese 666 A (HR 6416)
+HR 6529
+HR 6455
+HR 6452
+74 Herculis (HR 6464)
+72 w Herculis (HR 6458)
+53 Nu Serpentis (HR 6446)
+70 Herculis (HR 6457)
+40 Xi Ophiuchi (HR 6445)
+HR 6469
+HR 6479
+Zeta Apodis (HR 6417)
+42 Theta Ophiuchi (HR 6453)
+Iota Apodis (HR 6411)
+HR 6442
+Iota Arae (HR 6451)
+43 Ophiuchi (HR 6459)
+75 Rho Herculis (HR 6485)
+HR 6476
+HR 6440
+73 Herculis (HR 6480)
+HR 6460
+HR 6447
+HR 6481
+HR 6472
+Beta Arae (HR 6461)
+Gamma Arae (HR 6462)
+HR 6511
+Kappa Arae (HR 6468)
+44 b Ophiuchi (HR 6486)
+49 Sigma Ophiuchi (HR 6498)
+47 Ophiuchi (HR 6493)
+77 x Herculis (HR 6509)
+HR 6506
+HR 6502
+HR 6477
+HR 6478
+45 d Ophiuchi (HR 6492)
+HR 6494
+HR 6483
+HR 6507
+Gliese 678 (HR 6516)
+23 Beta Draconis (Rastaban)
+76 Lambda Herculis (Maasym)
+34 Upsilon Scorpii (Lesath)
+24 Ursae Minoris (HR 6811)
+HR 6528
+Delta Arae (HR 6500)
+HR 6524
+HR 6505
+51 c Ophiuchi (HR 6519)
+HR 6429
+78 Herculis (HR 6533)
+Alpha Arae (HR 6510)
+27 f Draconis (HR 6566)
+24 Nu-1 Draconis (Kuma)
+23 Delta Ursae Minoris (Yildun)
+25 Nu-2 Draconis (Kuma)
+HR 6550
+HR 6523
+HR 6541
+HR 6534
+35 Lambda Scorpii (Shaula)
+HR 6542
+53 f Ophiuchi (HR 6548)
+HR 6535
+HR 6544
+55 Alpha Ophiuchi (Rasalhague)
+26 Draconis (HR 6573)
+Sigma Arae (HR 6537)
+Q Scorpii (HR 6546)
+82 y Herculis (HR 6574)
+28 Omega Draconis (HR 6596)
+Theta Scorpii (Sargas)
+79 Herculis (HR 6571)
+55 Xi Serpentis (HR 6561)
+57 Mu Ophiuchi (HR 6567)
+Pi Arae (HR 6549)
+HR 6568
+85 Iota Herculis (HR 6588)
+Lambda Arae (HR 6569)
+HR 6572
+56 Omicron Serpentis (HR 6581)
+31 Psi Draconis (Dziban)
+31 Psi Draconis B (HR 6637)
+HR 6594
+83 Herculis (HR 6602)
+Kappa Scorpii (HR 6580)
+HR 6583
+84 Herculis (HR 6608)
+58 Ophiuchi (HR 6595)
+60 Beta Ophiuchi (Cebalrai)
+HR 6618
+Mu Arae (HR 6585)
+HR 6597
+Eta Pavonis (HR 6582)
+86 Mu Herculis (HR 6623)
+HR 6627
+3 X Sagittarii (HR 6616)
+Iota-1 Scorpii (HR 6615)
+HR 6620
+62 Gamma Ophiuchi (HR 6629)
+HR 6638
+87 Herculis (HR 6644)
+30 Draconis (HR 6656)
+HR 6628
+35 Draconis (HR 6701)
+G Scorpii (HR 6630)
+Iota-2 Scorpii (HR 6631)
+HR 6654
+Upsilon-1 Arae (HR 6622)
+HR 6624
+HR 6647
+HR 6670
+90 f Herculis (HR 6677)
+HR 6658
+32 Xi Draconis (Grumium)
+HR 6662
+34 Draconis (HR 6725)
+89 Herculis (HR 6685)
+HR 6687
+91 Theta Herculis (HR 6695)
+HR 6684
+HR 6681
+33 Gamma Draconis (Etamin)
+HR 6680
+HR 6675
+HR 6686
+HR 6689
+92 Xi Herculis (HR 6703)
+HR 6682
+94 Nu Herculis (HR 6707)
+HR 6692
+HR 6691
+64 Nu Ophiuchi (Sinistra)
+XHIP 88060
+HR 6706
+4 Sagittarii (HR 6700)
+HR 6728
+93 Herculis (HR 6713)
+41 Draconis (HR 6810)
+66 Ophiuchi (HR 6712)
+57 Zeta Serpentis (HR 6710)
+67 Ophiuchi (HR 6714)
+95 Herculis (HR 6730)
+68 Ophiuchi (HR 6723)
+HR 6716
+96 Herculis (HR 6738)
+7 Sagittarii (HR 6724)
+69 Tau Ophiuchi
+9 Sagittarii (HR 6736)
+W Sagittarii (Nash)
+70 p Ophiuchi (HR 6752)
+10 Gamma Sagittarii (Nash)
+HR 6768
+98 Herculis (HR 6765)
+HR 6755
+HR 6756
+Theta Arae (HR 6743)
+XHIP 88726
+99 b Herculis (HR 6775)
+71 Ophiuchi (HR 6770)
+72 Ophiuchi (HR 6771)
+HR 6791
+103 Omicron Herculis (HR 6779)
+HR 6769
+100 Herculis B (HR 6782)
+100 Herculis A (HR 6781)
+HR 6793
+HR 6766
+Pi Pavonis (HR 6745)
+102 Herculis (HR 6787)
+101 Herculis (HR 6794)
+73 Ophiuchi (HR 6795)
+HR 6797
+HR 6807
+HR 6780
+Iota Pavonis (HR 6761)
+HR 6800
+HR 6786
+Epsilon Telescopii (HR 6783)
+11 Sagittarii (HR 6801)
+104 A Herculis (HR 6815)
+HR 6751
+HR 6804
+13 Mu Sagittarii (Polis)
+36 Draconis (HR 6850)
+14 Sagittarii (HR 6816)
+15 Sagittarii (HR 6822)
+16 Sagittarii (HR 6823)
+HR 6845
+HR 6805
+HR 6818
+HR 6819
+HR 6838
+Eta Sagittarii (HR 6832)
+HR 6842
+HR 6857
+105 Herculis (HR 6860)
+1 Kappa Lyrae (HR 6872)
+HR 6858
+106 Herculis (HR 6868)
+43 Phi Draconis (HR 6920)
+74 Ophiuchi (HR 6866)
+108 Herculis (HR 6876)
+19 Delta Sagittarii (Kaus Media)
+107 t Herculis (HR 6877)
+44 chi Draconis (HR 6927)
+58 Eta Serpentis (HR 6869)
+Y Sagittarii (HR 6863)
+HR 6891
+HR 6882
+HR 6862
+HR 6885
+HR 6870
+HR 6881
+Xi Pavonis (HR 6855)
+HR 6874
+Phi Octantis (HR 6829)
+Zeta Scuti (HR 6884)
+109 Herculis (HR 6895)
+39 b Draconis (HR 6923)
+20 Epsilon Sagittarii (Kaus Australis)
+2 Mu Lyrae (Alathfar)
+HR 6875
+18 Sagittarii (HR 6888)
+21 Sagittarii (HR 6896)
+HR 6902
+HR 6917
+42 Draconis (HR 6945)
+HR 6894
+Alpha Telescopii (HR 6897)
+59 d Serpentis (HR 6918)
+22 Lambda Sagittarii (Kaus Borealis)
+HR 6928
+HR 6910
+Zeta Telescopii (HR 6905)
+Gamma Scuti (HR 6930)
+HR 6943
+60 c Serpentis (HR 6935)
+HR 7006
+HR 6922
+HR 6908
+HR 6933
+HR 6955
+HR 6936
+Nu Pavonis (HR 6916)
+HR 6946
+HR 6944
+Delta-1 Telescopii (HR 6934)
+HR 6937
+61 Serpentis (HR 6957)
+Delta-2 Telescopii (HR 6938)
+HR 6942
+45 d Draconis (HR 6978)
+HR 6959
+HR 6968
+Kappa-2 Coronae Austrinae (HR 6953)
+Theta Coronae Austrinae (HR 6951)
+HR 6962
+24 Sagittarii (HR 6961)
+HR 6983
+HR 6960
+HR 6970
+Alpha Scuti (HR 6973)
+HR 6977
+HR 6980
+HR 6985
+HR 6997
+HR 6987
+3 Alpha Lyrae (Vega)
+HR 7018
+e Serpentis (HR 6993)
+HR 6988
+XY Lyrae (HR 7009)
+HR 6990
+Gliese 722 (HR 6998)
+HR 6986
+HR 6991
+HR 7028
+HR 7007
+Delta Scuti (HR 7020)
+46 c Draconis (HR 7049)
+Zeta Pavonis (HR 6982)
+Epsilon Scuti (HR 7032)
+HR 7004
+Lambda Coronae Austrinae (HR 7021)
+HR 7044
+HR 7029
+4 Epsilon-1 Lyrae
+5 Epsilon-2 Lyrae
+6 Zeta-1 Lyrae (HR 7056)
+7 Zeta-2 Lyrae (HR 7057)
+HR 7035
+4 Aquilae (HR 7040)
+HR 7031
+HR 7012
+HR 7048
+27 Phi Sagittarii (HR 7039)
+110 Herculis (HR 7061)
+HR 7117
+HR 7064
+28 Sagittarii (HR 7046)
+50 Draconis (HR 7124)
+5 Aquilae
+HR 7084
+HR 7055
+111 Herculis (HR 7069)
+Beta Scuti (HR 7063)
+R Scuti (HR 7066)
+Mu Coronae Austrinae (HR 7050)
+Theta Pavonis (HR 7036)
+Eta-1 Coronae Austrinae (HR 7062)
+HR 7086
+HR 7065
+Eta-2 Coronae Austrinae (HR 7068)
+29 Sagittarii (HR 7078)
+8 Nu-1 Lyrae (HR 7100)
+9 Nu Lyrae (HR 7102)
+10 Beta Lyrae (Sheliak)
+HR 7094
+47 Omicron Draconis (HR 7125)
+Gliese 732.1 (HR 7123)
+Lambda Pavonis (HR 7074)
+112 Herculis (HR 7113)
+HR 7092
+Kappa Telescopii (HR 7087)
+HR 7137
+11 Delta-1 Lyrae (HR 7131)
+33 Sagittarii (HR 7114)
+32 Nu-1 Sagittarii (Ain al Rami)
+HR 7132
+52 Upsilon Draconis (HR 7180)
+12 Delta-2 Lyrae (HR 7139)
+HR 7119
+113 Herculis
+HR 7154
+chi Octantis (HR 6721)
+HR 7146
+35 Nu-2 Sagittarii (HR 7120)
+34 Sigma Sagittarii (Nunki)
+13 R Lyrae (HR 7157)
+62 Serpentis (HR 7135)
+HR 7126
+HR 7128
+HR 7148
+63 Theta-1 Serpentis (Alya)
+63 Theta-2 Serpentis (HR 7142)
+HR 7122
+Lalande 35695 (HR 7187)
+HR 7129
+48 Draconis (HR 7175)
+Kappa Pavonis (HR 7107)
+HR 7162
+Eta Scuti (HR 7149)
+64 Serpentis (HR 7158)
+36 Xi-1 Sagittarii (HR 7145)
+37 Xi-2 Sagittarii (HR 7150)
+HR 7174
+FF Aquilae (HR 7165)
+Lambda Telescopii (HR 7134)
+Omega Pavonis (HR 7127)
+Epsilon Coronae Austrinae (HR 7152)
+10 Aquilae (HR 7167)
+14 Gamma Lyrae (Sulafat)
+11 Aquilae (HR 7172)
+HR 7166
+13 Epsilon Aquilae (Deneb el Okab)
+HR 7181
+15 Lambda Lyrae (HR 7192)
+HR 7210
+49 Draconis (HR 7218)
+HR 7202
+16 Lyrae (HR 7215)
+12 i Aquilae (HR 7193)
+HR 7195
+38 Zeta Sagittarii (Ascella)
+14 g Aquilae (HR 7209)
+Zeta Coronae Austrinae (HR 7188)
+HR 7197
+HR 7161
+HR 7214
+HR 7211
+39 Omicron Sagittarii (Manubrij)
+51 Draconis (HR 7251)
+15 h Aquilae (HR 7225)
+HR 7237
+17 Zeta Aquilae (Deneb el Okab)
+HR 7230
+16 Lambda Aquilae (HR 7236)
+Rho Telescopii (HR 7213)
+Gamma Coronae Austrinae
+HR 7253
+HR 7250
+HR 7239
+HR 7223
+40 Tau Sagittarii (HR 7234)
+18 Aquilae (HR 7248)
+18 Iota Lyrae (HR 7262)
+17 Lyrae (HR 7261)
+HR 7249
+Delta Coronae Austrinae (HR 7242)
+19 Aquilae (HR 7266)
+59 Draconis (HR 7312)
+Alpha Coronae Austrinae (Alfecca Meridiana)
+41 Pi Sagittarii (Albaldah)
+HR 7221
+HR 7257
+Beta Coronae Austrinae (HR 7259)
+53 Draconis (HR 7295)
+19 Lyrae (HR 7283)
+Gliese 9648 A
+57 Delta Draconis (Altais)
+20 Aquilae (HR 7279)
+HR 7277
+HR 7282
+21 Aquilae (HR 7287)
+20 Eta Lyrae (Aladfar)
+54 Draconis (HR 7309)
+1 Sagittae (HR 7301)
+HR 7300
+HR 7302
+42 Psi Sagittarii (HR 7292)
+60 Tau Draconis (HR 7352)
+1 Vulpeculae (HR 7306)
+HR 7289
+21 Theta Lyrae (HR 7314)
+HR 7307
+22 Aquilae (HR 7303)
+1 Kappa Cygni (HR 7328)
+HR 7278
+43 d Sagittarii (HR 7304)
+2 Vulpeculae (HR 7318)
+25 Omega-1 Aquilae (HR 7315)
+23 Aquilae (HR 7319)
+28 A Aquilae (HR 7331)
+HR 7316
+HR 7356
+26 f Aquilae (HR 7333)
+27 d Aquilae (HR 7336)
+HR 7327
+58 Pi Draconis (HR 7371)
+44 Rho-1 Sagittarii (HR 7340)
+46 Upsilon Sagittarii (HR 7342)
+HR 7349
+Beta-1 Sagittarii (Arkab Prior)
+3 Vulpeculae (HR 7358)
+Eta Telescopii (HR 7329)
+Beta-2 Sagittarii (Arkab Posterior)
+Alpha Sagittarii (Rukbat)
+2 Cygni (HR 7372)
+HR 7355
+31 b Aquilae (HR 7373)
+47 chi Sagittarii (HR 7362)
+HR 7367
+4 Vulpeculae (HR 7385)
+30 Delta Aquilae (Deneb Okab)
+49 chi Sagittarii (HR 7363)
+4 Cygni (HR 7395)
+HR 7378
+5 Vulpeculae (HR 7390)
+50 Sagittarii (HR 7375)
+HR 7389
+HR 7391
+32 Nu Aquilae (HR 7387)
+HR 7380
+7 Cygni (HR 7408)
+HR 7370
+HR 7397
+6 Alpha Vulpeculae (Anser )
+8 Vulpeculae (HR 7406)
+35 c Aquilae (HR 7400)
+HR 7407
+HR 7392
+10 Iota Cygni (HR 7420)
+HR 7398
+36 e Aquilae (HR 7414)
+6 Beta-1 Cygni (Albireo)
+6 Beta-2 Cygni (HR 7418)
+HR 7427
+8 Cygni (HR 7426)
+61 Sigma Draconis (Alsafi)
+HR 7411
+HR 7416
+38 Mu Aquilae (HR 7429)
+HR 7422
+Gliese 4116 (HR 7451)
+9 Vulpeculae (HR 7437)
+HR 7444
+9 Cygni (HR 7441)
+37 Aquilae (HR 7430)
+Iota Telescopii (HR 7424)
+51 h1 Sagittarii (HR 7431)
+13 Theta Cygni (HR 7469)
+HR 7468
+52 h2 Sagittarii (HR 7440)
+41 Iota Aquilae (HR 7447)
+39 Kappa Aquilae (HR 7446)
+HR 7443
+4 Epsilon Sagittae (HR 7463)
+Gliese 9663 (HR 7454)
+42 Aquilae (HR 7460)
+HR 7484
+44 Sigma Aquilae (HR 7474)
+12 Phi Cygni (HR 7478)
+14 Cygni (HR 7483)
+5 Alpha Sagittae (Sham)
+45 Aquilae (HR 7480)
+54 e1 Sagittarii (HR 7476)
+HR 7495
+6 Beta Sagittae (HR 7488)
+QS Aquilae (HR 7486)
+55 e2 Sagittarii (HR 7489)
+47 chi Aquilae (HR 7497)
+HR 7502
+HR 7496
+10 Vulpeculae (HR 7506)
+HR 7514
+15 Cygni (HR 7517)
+HR 7545
+18 Delta Cygni (HR 7528)
+49 Upsilon Aquilae (HR 7519)
+HR 7507
+50 Gamma Aquilae (Tarazed)
+56 f Sagittarii (HR 7515)
+17 Cygni (HR 7534)
+7 Delta Sagittae (HR 7536)
+HR 7543
+Nu Telescopii (HR 7510)
+63 Epsilon Draconis (Tyl)
+52 Pi Aquilae
+8 Zeta Sagittae (HR 7546)
+HR 7498
+HR 7537
+19 Cygni (HR 7566)
+V38 Cygni (HR 7567)
+20 d Cygni (HR 7576)
+HR 7531
+53 Alpha Aquilae (Altair)
+51 Aquilae (HR 7553)
+54 Omicron Aquilae (HR 7560)
+12 Vulpeculae (HR 7565)
+HR 7552
+HR 7589
+HR 7573
+HR 7591
+55 Eta Aquilae (HR 7570)
+HR 7548
+23 Cygni (HR 7608)
+HR 7575
+13 Vulpeculae (HR 7592)
+56 Aquilae (HR 7584)
+59 Xi Aquilae (Deneb Okab)
+HR 7601
+57 Aquilae A (HR 7593)
+58 Aquilae (HR 7596)
+HR 7606
+Iota Sagittarii (HR 7581)
+60 Beta Aquilae (Alshain)
+24 Psi Cygni (HR 7619)
+58 Omega Sagittarii (Terebellum)
+22 Cygni (HR 7613)
+HR 7633
+10 S Sagittae (HR 7609)
+61 Phi Aquilae (HR 7610)
+21 Eta Cygni (HR 7615)
+HR 7620
+59 b1 Sagittarii (Terebellum)
+HR 7587
+HR 7628
+11 Sagittae (HR 7622)
+61 g Sagittarii (HR 7614)
+HR 7640
+HR 7579
+12 Gamma Sagittae (HR 7635)
+60 A Sagittarii (Terebellum)
+14 Vulpeculae (HR 7641)
+HR 7646
+Theta-1 Sagittarii (HR 7623)
+Gliese 773.3 (HR 7637)
+Theta-2 Sagittarii (HR 7624)
+25 Cygni (HR 7647)
+13 Sagittae (HR 7645)
+Gliese 773.4 (HR 7631)
+Mu-1 Pavonis (HR 7603)
+Epsilon Pavonis (HR 7590)
+HR 7630
+15 Vulpeculae (HR 7653)
+26 e Cygni (HR 7660)
+64 e Draconis (HR 7676)
+HR 7625
+HR 7656
+Mu-2 Pavonis (HR 7612)
+63 Sagittarii (HR 7649)
+16 Vulpeculae (HR 7657)
+62 c Sagittarii (Terebellum)
+67 Rho Draconis (HR 7685)
+14 Sagittae (HR 7664)
+HR 7652
+Gliese 9683 (Lalande 38380)
+15 Sagittae (Wolf 866)
+63 Tau Aquilae (HR 7669)
+HR 7659
+62 Aquilae (HR 7667)
+HR 7678
+16 Eta Sagittae (HR 7679)
+66 Draconis (HR 7701)
+Lalande 38626 (HR 7697)
+27 b1 Cygni (HR 7689)
+17 Vulpeculae (HR 7688)
+Xi Telescopii (HR 7673)
+Delta Pavonis (HR 7665)
+1 Kappa Cephei (HR 7750)
+28 b2 Cygni (HR 7708)
+18 Vulpeculae (HR 7711)
+Gliese 783 A (HR 7703)
+65 Theta Aquilae (HR 7710)
+68 Draconis (HR 7727)
+19 Vulpeculae (HR 7718)
+20 Vulpeculae (HR 7719)
+2 Xi Capricorni (HR 7715)
+66 Aquilae (HR 7720)
+30 Cygni (HR 7730)
+33 Cygni (HR 7740)
+HR 7742
+31 Omicron-1 Cygni
+21 Vulpeculae (HR 7731)
+67 Rho Aquilae (HR 7724)
+HR 7714
+29 b3 Cygni (HR 7736)
+HR 7739
+Gliese 785 (HR 7722)
+HR 7743
+32 Omicron-2 Cygni (HR 7751)
+22 Vulpeculae (HR 7741)
+23 Vulpeculae (HR 7744)
+HR 7756
+24 Vulpeculae (HR 7753)
+HR 7759
+5 Alpha-1 Capricorni (Prima Giedi)
+34 P Cygni (HR 7763)
+6 Alpha-2 Capricorni (Gredi)
+HR 7767
+HR 7781
+36 Cygni (HR 7769)
+35 Cygni (HR 7770)
+7 Sigma Capricorni (HR 7761)
+71 Draconis (HR 7792)
+AC Draconis (HR 7804)
+HR 7780
+8 Nu Capricorni (Alshat)
+9 Beta Capricorni (Dabih)
+HR 7805
+25 Vulpeculae (HR 7789)
+HR 7798
+37 Gamma Cygni (Sadr)
+Kappa-1 Sagittarii (HR 7779)
+HR 7794
+HR 7807
+39 Cygni (HR 7806)
+Kappa-2 Sagittarii (HR 7787)
+Alpha Pavonis (Peacock)
+HR 7811
+43 Cygni (HR 7828)
+10 Pi Capricorni (Okul)
+40 Cygni (HR 7826)
+75 Draconis (HR 7901)
+11 Rho Capricorni (HR 7822)
+42 Cygni (HR 7835)
+41 Cygni (HR 7834)
+HR 7843
+2 Theta Cephei (HR 7850)
+69 Aquilae (HR 7831)
+12 Omicron Capricorni (HR 7830)
+45 Omega-1 Cygni (Ruchba)
+46 Omega-2 Cygni (Ruchba)
+73 Draconis (HR 7879)
+Gliese 792.1 A (HR 7845)
+2 Epsilon Delphini (Deneb Dulfim)
+HR 7785
+47 Cygni (HR 7866)
+HR 7870
+Nu Microscopii (HR 7846)
+3 Eta Delphini (HR 7858)
+4 Zeta Delphini (HR 7871)
+Phi-1 Pavonis (HR 7848)
+70 Aquilae (HR 7873)
+27 Vulpeculae (HR 7880)
+6 Beta Delphini (Rotanev)
+Alpha Indi (HR 7869)
+Rho Pavonis (HR 7859)
+5 Iota Delphini (HR 7883)
+HR 7886
+HR 7812
+71 l Aquilae (HR 7884)
+29 Vulpeculae (HR 7891)
+28 Vulpeculae (HR 7894)
+8 Theta Delphini (HR 7892)
+HR 7904
+HR 7899
+7 Kappa Delphini (HR 7896)
+14 Tau Capricorni (HR 7889)
+1 Aquarii (HR 7897)
+9 Alpha Delphini (Svalocin)
+Phi-2 Pavonis (HR 7875)
+15 Upsilon Capricorni (HR 7900)
+HR 7893
+HR 7905
+49 Cygni (HR 7921)
+HR 7909
+50 Alpha Cygni (Deneb)
+HR 7926
+Upsilon Pavonis (HR 7881)
+51 Cygni (HR 7929)
+76 Draconis (HR 8002)
+4 Cephei (HR 7945)
+11 Delta Delphini (HR 7928)
+Eta Indi (HR 7920)
+HR 7944
+30 Vulpeculae (HR 7939)
+Beta Pavonis (HR 7913)
+3 Eta Cephei (HR 7957)
+Upsilon-1 Cephei (HR 7955)
+52 Cygni (HR 7942)
+16 Psi Capricorni (HR 7936)
+17 Capricorni (HR 7937)
+53 Epsilon Cygni (Gienah)
+HR 7933
+12 Gamma-1 Delphini (HR 7947)
+12 Gamma-2 Delphini (HR 7948)
+T Cygni (HR 7956)
+54 Lambda Cygni (HR 7963)
+HR 8016
+2 Epsilon Aquarii (Albali)
+3 k Aquarii (HR 7951)
+13 Delphini (HR 7953)
+HR 7969
+Iota Microscopii (HR 7943)
+55 Cygni (HR 7977)
+HR 7961
+Sigma Pavonis (HR 7934)
+Zeta Indi (HR 7952)
+Alpha Microscopii (HR 7965)
+56 Cygni (HR 7984)
+HR 7971
+T Vulpeculae (HR 7988)
+Iota Indi (HR 7968)
+XHIP 102962
+18 Omega Capricorni (HR 7980)
+31 Vulpeculae (HR 7995)
+5 Aquarii (HR 7985)
+6 Mu Aquarii (HR 7990)
+57 Cygni (HR 8001)
+HR 8003
+HR 7987
+HR 8005
+32 Vulpeculae (HR 8008)
+19 Capricorni (HR 8000)
+Beta Indi (HR 7986)
+17 Delphini (HR 8011)
+16 Delphini (HR 8012)
+HR 8020
+HR 8025
+HR 8023
+Gliese 811 (HR 8013)
+7 Aquarii (HR 8015)
+58 Nu Cygni (HR 8028)
+HR 8018
+33 Vulpeculae (HR 8032)
+HR 8035
+18 Delphini (HR 8030)
+HR 8040
+1 Epsilon Equulei (HR 8034)
+XHIP 103571
+HR 8049
+59 f1 Cygni (HR 8047)
+HR 8027
+HR 8044
+60 Cygni (HR 8053)
+Gamma Microscopii (HR 8039)
+HR 8065
+Zeta Microscopii (HR 8048)
+12 Aquarii
+22 Eta Capricorni (Arm)
+3 Equulei (HR 8066)
+Alpha Octantis (HR 8021)
+62 Xi Cygni (HR 8079)
+Mu Indi (HR 8055)
+77 Draconis (HR 8112)
+23 Theta Capricorni (HR 8075)
+Delta Microscopii (HR 8070)
+HR 8099
+2 Piscis Austrini (HR 8076)
+Eta Microscopii (HR 8069)
+DT Cygni (HR 8084)
+63 f2 Cygni (HR 8089)
+61 Cygni (HR 8085)
+24 A Capricorni (HR 8080)
+HR 8073
+25 chi Capricorni (HR 8087)
+V38 Cygni (HR 8094)
+Sigma Octantis (Polaris Australis)
+HR 8061
+13 Nu Aquarii (HR 8093)
+HR 8106
+5 Gamma Equulei (HR 8097)
+HR 8119
+Gliese 9726 (HR 8100)
+64 Zeta Cygni (HR 8115)
+HR 8104
+3 Piscis Austrini (HR 8110)
+Omicron Pavonis (HR 8092)
+7 Delta Equulei (HR 8123)
+65 Tau Cygni (HR 8130)
+28 Phi Capricorni (HR 8127)
+29 Capricorni (HR 8128)
+HR 8114
+8 Alpha Equulei (Kitalpha)
+67 Sigma Cygni (HR 8143)
+66 Upsilon Cygni (HR 8146)
+Epsilon Microscopii (HR 8135)
+30 Capricorni (HR 8137)
+15 Aquarii (HR 8141)
+68 A Cygni (HR 8154)
+5 Alpha Cephei (Alderamin)
+HR 8164
+6 Cephei (HR 8171)
+HR 8161
+Theta Indi (HR 8140)
+Theta-1 Microscopii (HR 8151)
+34 Vulpeculae (HR 8165)
+9 Equulei (HR 8163)
+HR 8185
+1 Pegasi (HR 8173)
+32 Iota Capricorni (HR 8167)
+10 Beta Equulei (HR 8178)
+HR 8172
+HR 8190
+33 Capricorni (HR 8183)
+18 Aquarii (HR 8187)
+Theta-2 Microscopii (HR 8180)
+HR 8198
+19 Aquarii (HR 8195)
+21 Aquarii (HR 8199)
+HR 8208
+69 Cygni (HR 8209)
+HR 8200
+Gamma Pavonis (HR 8181)
+34 Zeta Capricorni (HR 8204)
+HR 8218
+HR 8216
+HR 8202
+35 Capricorni (HR 8207)
+70 Cygni (HR 8215)
+35 Vulpeculae (HR 8217)
+7 Cephei (HR 8227)
+HR 8220
+8 Beta Cephei (Alfirk)
+36 b Capricorni (HR 8213)
+SX Pavonis (HR 8196)
+HR 8223
+71 g Cygni (HR 8228)
+2 Pegasi (HR 8225)
+HR 8243
+22 Beta Aquarii (Sadalsuud)
+Xi Gruis (HR 8229)
+6 Piscis Austrini (HR 8230)
+HR 8246
+HR 8236
+73 Rho Cygni (HR 8252)
+72 Cygni (HR 8255)
+37 Capricorni (HR 8245)
+HR 8251
+W Cygni (HR 8262)
+8 Piscis Austrini (HR 8253)
+74 Cygni (HR 8266)
+39 Epsilon Capricorni (Kastra)
+23 Xi Aquarii (HR 8264)
+5 Pegasi (HR 8267)
+9 Cephei (HR 8279)
+4 Pegasi (HR 8270)
+HR 8281
+XHIP 106890
+HR 8276
+25 d Aquarii (HR 8277)
+40 Gamma Capricorni (Nashira)
+75 Cygni (HR 8284)
+Nu Octantis (HR 8254)
+42 Capricorni (HR 8283)
+11 Cephei (HR 8317)
+41 Capricorni (HR 8285)
+V46 Cygni (HR 8297)
+80 Pi-1 Cygni (Azelfafage)
+26 Aquarii (HR 8287)
+7 Pegasi (HR 8289)
+77 Cygni (HR 8300)
+43 Kappa Capricorni (HR 8288)
+78 Draconis (HR 8324)
+44 Capricorni (HR 8295)
+HR 8306
+79 Cygni (HR 8307)
+Mu Cephei (Erakis)
+78 Mu-1 Cygni
+8 Epsilon Pegasi (Enif)
+9 Pegasi (HR 8313)
+10 Kappa Pegasi (HR 8315)
+9 Iota Piscis Austrini (HR 8305)
+46 c Capricorni (HR 8311)
+10 Nu Cephei (HR 8334)
+HR 8286
+12 Pegasi (HR 8321)
+XHIP 107516
+48 Lambda Capricorni (HR 8319)
+81 Pi-2 Cygni (HR 8335)
+49 Delta Capricorni (Deneb Algedi)
+11 Pegasi (HR 8328)
+12 Cephei (HR 8339)
+10 Theta Piscis Austrini (HR 8326)
+Gliese 838 (HR 8323)
+14 Pegasi (HR 8343)
+HR 8331
+13 Pegasi (HR 8344)
+Omicron Indi (HR 8333)
+Lambda Octantis (HR 8280)
+HR 8348
+HR 8357
+15 Pegasi (HR 8354)
+16 Pegasi (HR 8356)
+51 Mu Capricorni (HR 8351)
+HR 8358
+Gamma Gruis (Al'danab)
+HR 8360
+13 Cephei (HR 8371)
+HR 8375
+HR 8366
+VV Cephei (HR 8383)
+17 Pegasi (HR 8373)
+Delta Indi (HR 8368)
+HR 8388
+16 Cephei (HR 8400)
+HR 8379
+18 Pegasi (HR 8385)
+12 Eta Piscis Austrini (HR 8386)
+28 Aquarii (HR 8390)
+20 Pegasi (HR 8392)
+19 Pegasi (HR 8393)
+HR 8403
+14 Cephei (HR 8406)
+HR 8407
+30 Aquarii (HR 8401)
+Epsilon Indi (HR 8387)
+31 Omicron Aquarii (HR 8402)
+21 Pegasi (HR 8404)
+17 Xi Cephei (Alkurhah)
+18 Cephei (HR 8416)
+HR 8408
+32 Aquarii (HR 8410)
+20 Cephei (HR 8426)
+19 Cephei (HR 8428)
+HR 8415
+23 Pegasi (HR 8419)
+22 Nu Pegasi (HR 8413)
+34 Alpha Aquarii (Sadalmelik)
+Kappa Indi (HR 8409)
+HR 8424
+Lambda Gruis (HR 8411)
+33 Iota Aquarii (HR 8418)
+24 Iota Pegasi (HR 8430)
+HR 8435
+25 Pegasi (HR 8438)
+Alpha Gruis (Alnair)
+14 Mu Piscis Austrini (HR 8431)
+Upsilon Piscis Austrini (HR 8433)
+35 Aquarii (HR 8439)
+27 Pi-1 Pegasi (HR 8449)
+24 Cephei (HR 8468)
+HR 8444
+29 Pi Pegasi (HR 8454)
+15 Tau Piscis Austrini (HR 8447)
+26 Theta Pegasi (Biham)
+HR 8458
+38 e Aquarii (HR 8452)
+HR 8474
+21 Zeta Cephei (HR 8465)
+HR 8463
+22 Lambda Cephei (HR 8469)
+HR 8472
+HR 8479
+HR 8483
+HR 8475
+HR 8546
+HR 8470
+HR 8487
+HR 8485
+41 Aquarii (HR 8480)
+16 Lambda Piscis Austrini (HR 8478)
+HR 8489
+23 Epsilon Cephei (HR 8494)
+Mu-1 Gruis (HR 8486)
+1 Lacertae (HR 8498)
+Mu-2 Gruis (HR 8488)
+42 Aquarii (HR 8496)
+43 Theta Aquarii (Ancha)
+HR 8500
+44 Aquarii (HR 8504)
+Psi Octantis (HR 8471)
+25 Cephei (HR 8511)
+Gliese 853 A (HR 8501)
+Alpha Tucanae (HR 8502)
+Epsilon Octantis (HR 8481)
+46 Rho Aquarii (HR 8512)
+30 Pegasi (HR 8513)
+2 Lacertae (HR 8523)
+32 Pegasi (HR 8522)
+31 Pegasi (HR 8520)
+47 Aquarii (HR 8516)
+48 Gamma Aquarii (Sadalachbia)
+Pi-1 Gruis (HR 8521)
+Pi-2 Gruis (HR 8524)
+49 Aquarii (HR 8529)
+3 Beta Lacertae (HR 8538)
+51 Aquarii (HR 8533)
+50 Aquarii (HR 8534)
+4 Lacertae (HR 8541)
+Nu Indi (HR 8515)
+Gliese 857 (HR 8531)
+HR 8527
+52 Pi Aquarii (HR 8539)
+HR 8557
+53 f Aquarii (HR 8545)
+34 Pegasi (HR 8548)
+28 Cephei (HR 8578)
+26 Cephei (HR 8561)
+Delta Tucanae (HR 8540)
+35 Pegasi (HR 8551)
+HR 8547
+Nu Gruis (HR 8552)
+55 Zeta-1 Aquarii
+36 Pegasi (HR 8562)
+27 Delta Cephei (HR 8571)
+HR 8564
+Delta-1 Gruis (HR 8556)
+5 Lacertae (HR 8572)
+Delta-2 Gruis (HR 8560)
+29 Rho Cephei (Al Kalb al Rai)
+37 Pegasi (HR 8566)
+38 Pegasi (HR 8574)
+6 Lacertae (HR 8579)
+57 Sigma Aquarii (HR 8573)
+7 Alpha Lacertae (HR 8585)
+17 Beta Piscis Austrini (HR 8576)
+Upsilon Octantis (HR 8505)
+HR 8599
+HR 8588
+Nu Tucanae (HR 8582)
+HR 8594
+59 Upsilon Aquarii (HR 8592)
+62 Eta Aquarii (HR 8597)
+31 Cephei (HR 8615)
+8 Lacertae A (HR 8603)
+HR 8601
+Sigma-2 Gruis (HR 8602)
+HR 8625
+9 Lacertae (HR 8613)
+63 Kappa Aquarii (Situla)
+HR 8621
+30 Cephei (HR 8627)
+HR 8616
+10 Lacertae (HR 8622)
+11 Lacertae (HR 8632)
+18 Epsilon Piscis Austrini (HR 8628)
+HR 8631
+42 Zeta Pegasi (Homam)
+12 Lacertae (HR 8640)
+43 Omicron Pegasi (HR 8641)
+Beta Gruis (HR 8636)
+44 Eta Pegasi (Matar)
+Rho Gruis (HR 8644)
+66 g Aquarii (HR 8649)
+13 Lacertae (HR 8656)
+Eta Gruis (HR 8655)
+HR 8657
+Beta Octantis (HR 8630)
+HR 8666
+47 Lambda Pegasi (HR 8667)
+46 Xi Pegasi (HR 8665)
+HR 8702
+68 Aquarii (HR 8670)
+69 Tau-1 Aquarii (HR 8673)
+HR 8678
+Epsilon Gruis (HR 8675)
+71 Tau-2 Aquarii (HR 8679)
+32 Iota Cephei (HR 8694)
+HR 8688
+48 Mu Pegasi (Sadalbari)
+14 Lacertae (HR 8690)
+Xi Octantis (HR 8663)
+HR 8685
+HR 8696
+15 Lacertae (HR 8699)
+49 Sigma Pegasi (HR 8697)
+22 Gamma Piscis Austrini (HR 8695)
+73 Lambda Aquarii (HR 8698)
+74 Aquarii (HR 8704)
+HR 8708
+HR 8712
+HR 8748
+76 Delta Aquarii (Skat)
+77 Aquarii (HR 8711)
+HR 8716
+50 Rho Pegasi (HR 8717)
+HR 8723
+23 Delta Piscis Austrini (HR 8720)
+16 Lacertae (HR 8725)
+HR 8726
+Tau-3 Gruis (HR 8722)
+EW Lacertae (HR 8731)
+51 Pegasi (HR 8729)
+24 Alpha Piscis Austrini (Fomalhaut)
+52 Pegasi (HR 8739)
+2 Piscium (HR 8742)
+HR 8740
+HR 8752
+HR 8743
+Zeta Gruis (HR 8747)
+HR 8749
+HR 8754
+1 Omicron Andromedae (HR 8762)
+2 Andromedae (HR 8766)
+Pi Piscis Austrini (HR 8767)
+HR 8779
+53 Beta Pegasi (Scheat)
+4 Beta Piscium (Fum al Samakah)
+HR 8771
+3 Andromedae (HR 8780)
+Kappa Gruis (HR 8774)
+54 Alpha Pegasi (Markab)
+HR 8769
+83 h Aquarii (HR 8782)
+1 Cassiopeiae (HR 8797)
+86 c1 Aquarii (HR 8789)
+Theta Gruis (HR 8787)
+Upsilon Gruis (HR 8790)
+55 Pegasi (HR 8795)
+56 Pegasi (HR 8796)
+HR 8793
+4 Andromedae (HR 8804)
+5 Andromedae (HR 8805)
+33 Pi Cephei (HR 8819)
+HR 8802
+5 A Piscium (HR 8807)
+88 c2 Aquarii (HR 8812)
+57 Pegasi (HR 8815)
+2 Cassiopeiae (HR 8822)
+89 c3 Aquarii (HR 8817)
+HR 8814
+58 Pegasi (HR 8821)
+HR 8818
+Iota Gruis (HR 8820)
+HR 8824
+59 Pegasi (HR 8826)
+7 Andromedae (HR 8830)
+Gliese 892 (HR 8832)
+90 Phi Aquarii (HR 8834)
+HR 8844
+HR 8835
+HR 8840
+HR 8851
+91 Psi-1 Aquarii (HR 8841)
+Gliese 4324 (HR 8853)
+92 chi Aquarii (HR 8850)
+Gliese 1282 (HR 8843)
+6 Gamma Piscium (HR 8852)
+Gamma Tucanae (HR 8848)
+8 Andromedae (HR 8860)
+93 Psi-2 Aquarii (HR 8858)
+Phi Gruis (HR 8859)
+34 Omicron Cephei (HR 8872)
+Gamma Sculptoris (HR 8863)
+95 Psi-3 Aquarii (HR 8865)
+94 Aquarii (HR 8866)
+96 Aquarii (HR 8868)
+11 Andromedae (HR 8874)
+10 Andromedae (HR 8876)
+7 b Piscium (HR 8878)
+62 Tau Pegasi (Kerb)
+63 Pegasi (HR 8882)
+12 Andromedae (HR 8885)
+HR 8883
+64 Pegasi (HR 8887)
+HR 8894
+97 Aquarii (HR 8890)
+98 b1 Aquarii (HR 8892)
+66 Pegasi (HR 8893)
+HR 8898
+4 Cassiopeiae (HR 8904)
+67 Pegasi (HR 8903)
+HR 8901
+68 Upsilon Pegasi (HR 8905)
+99 b2 Aquarii (HR 8906)
+Omicron Gruis (HR 8907)
+8 Kappa Piscium (HR 8911)
+HR 8938
+13 Andromedae (HR 8913)
+HR 8909
+HR 8918
+69 Pegasi (HR 8915)
+10 Theta Piscium (HR 8916)
+Tau Octantis (HR 8862)
+HR 8919
+70 Pegasi (HR 8923)
+AR Cassiopeiae (HR 8926)
+14 Andromedae (HR 8930)
+Beta Sculptoris (HR 8937)
+101 b3 Aquarii (HR 8939)
+Gliese 4340 (HR 8935)
+71 Pegasi (HR 8940)
+72 Pegasi (HR 8943)
+14 Piscium (HR 8944)
+15 Andromedae (HR 8947)
+73 Pegasi (HR 8948)
+HR 8952
+Iota Phoenicis (HR 8949)
+16 Piscium (HR 8954)
+HR 8962
+16 Lambda Andromedae (HR 8961)
+HR 8958
+HR 8959
+75 Pegasi (HR 8963)
+17 Iota Andromedae (HR 8965)
+18 Andromedae (HR 8967)
+HR 8971
+35 Gamma Cephei (Alrai)
+102 Omega-1 Aquarii (HR 8968)
+17 Iota Piscium (HR 8969)
+19 Kappa Andromedae (HR 8976)
+Mu Sculptoris (HR 8975)
+103 A1 Aquarii (HR 8980)
+104 A2 Aquarii A (HR 8982)
+HR 8983
+18 Lambda Piscium (HR 8984)
+HR 8987
+105 Omega-2 Aquarii (HR 8988)
+77 Pegasi (HR 8991)
+78 Pegasi (HR 8997)
+HR 8996
+106 i1 Aquarii (HR 8998)
+HR 8995
+107 i2 Aquarii
+20 Psi Andromedae (HR 9003)
+19 TX Piscium (HR 9004)
+HR 9005
+HR 9010
+5 Tau Cassiopeiae (HR 9008)
+HR 9009
+Sigma Phoenicis (HR 9006)
+HR 9013
+20 Piscium (HR 9012)
+6 Cassiopeiae (HR 9018)
+Delta Sculptoris (HR 9016)
+21 Piscium (HR 9022)
+HR 9029
+80 Pegasi (Wolf 1045)
+108 i3 Aquarii (HR 9031)
+22 Piscium (HR 9033)
+Gamma-1 Octantis (HR 9032)
+81 Phi Pegasi (HR 9036)
+82 Pegasi (HR 9039)
+h Aquarii (HR 9040)
+7 Rho Cassiopeiae (HR 9045)
+HR 9047
+HR 9059
+HR 9060
+Gamma-2 Octantis (HR 9061)
+Eta Tucanae (HR 9062)
+84 Psi Pegasi (HR 9064)
+27 Piscium (HR 9067)
+Pi Phoenicis (HR 9069)
+8 Sigma Cassiopeiae (HR 9071)
+28 Omega Piscium (HR 9072)
+HR 9073
+Gliese 4384
+Epsilon Tucanae (HR 9076)

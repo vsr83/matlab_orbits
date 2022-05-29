@@ -75,9 +75,9 @@ for ind_item = 1:num_lines-1
     % Declination (ICRS, Epoch=J1991.25), degrees.
     DEdeg_1991 = str2double(elems_data(6));
     % Proper motion in RA*cos(DEdeg), mas/yr.
-    RA_proper = str2double(elems_data(9));
+    RA_proper = str2double(elems_data(8));
     % Proper motion in Declination, mas/yr.
-    decl_proper = str2double(elems_data(10));
+    decl_proper = str2double(elems_data(9));
     % Heliocentric distance, pc.
     dist = str2double(elems_data(19));
     % Median magnitude in Hipparchos system, mag.
