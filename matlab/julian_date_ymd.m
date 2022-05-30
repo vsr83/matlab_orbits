@@ -1,4 +1,4 @@
-function JD = julian_date(year, month, mday)
+function JD = julian_date_ymd(year, month, mday)
 % JULIAN_DATE_YMD - Compute Julian Date from date.
 %
 % INPUTS:
