@@ -39,12 +39,25 @@ for ind_dim = 1:3
 
         for ind_coeff = 1:length(coeff_inds)
             coeff_ind = coeff_inds(ind_coeff);
-            fprintf(fid, '[%.10f, %.10f, %.10f],\n', data(coeff_ind, 2), ...
+            fprintf(fid, '[%.10f, %.10f, %.10f]', data(coeff_ind, 2), ...
                 data(coeff_ind, 3), data(coeff_ind, 4));
+            if ind_coeff ~= length(coeff_inds) 
+                fprintf(fid, ',\n');
+            else
+                fprintf(fid, '\n');
+            end
         end
 
-        fprintf(fid, '  ],\n');
+        if ind_polyn ~= 6
+            fprintf(fid, '  ],\n');
+        else
+            fprintf(fid, '  ]\n');
+        end
     end
-    fprintf(fid, '],\n');
+    if ind_dim ~= 3
+        fprintf(fid, '],\n');
+    else
+        fprintf(fid, ']\n');
+    end
 end
 fprintf(fid, ']\n');
